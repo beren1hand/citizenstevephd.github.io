@@ -121,8 +121,10 @@ categories: sessions
 
 ### Just War Theory
 
-**Academic Sources:**
-- [Stanford Encyclopedia of Philosophy: War](https://plato.stanford.edu/entries/war/)
+**Primary Reference:**
+- [Stanford Encyclopedia of Philosophy: War (Just War Theory section)](https://plato.stanford.edu/entries/war/)
+
+**Additional Sources:**
 - [Internet Encyclopedia of Philosophy: Just War Theory](https://iep.utm.edu/justwar/)
 - [Wikipedia: Just War Theory](https://en.wikipedia.org/wiki/Just_war_theory)
 
