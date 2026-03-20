@@ -35,6 +35,12 @@ categories: sessions
 - Historical pattern: Dehumanizing language → systematic abuse
 - Settler colonialism and ethnic cleansing parallels
 
+**Two Forms of Racism:**
+- **Explicit racism:** Direct statements, symbols (easy to spot)
+- **Systemic/institutional racism:** Policies producing disparate outcomes (harder to see, often more harmful)
+- **Why both matter:** Can have one without the other, but often work together
+- **ICE case:** Has BOTH explicit and systemic racism
+
 #### C. U.S. Constitutional Law (10 min)
 - **4th Amendment:** Protection from unreasonable search/seizure
 - **5th Amendment:** Due process, no deprivation without procedure
@@ -50,37 +56,54 @@ categories: sessions
 - Systematic sexual violence in detention (universal pattern)
 - Why these comparisons matter: pattern recognition, not hyperbole
 
-### Part 2: The Evidence (25 min)
+### Part 2: The Evidence (30 min)
 
-#### A. Court Order Defiance - 12+ Violations (8 min)
+#### A. Court Order Defiance - Operating Above Law (6 min)
 - Federal judges documenting systematic defiance
+- 12+ violations in first 6 months (2026)
 - Contempt proceedings (Judge Schultz, Judge Bryan)
-- Immigration cases most frequent violations
 - Pattern: "Administrative error" excuses, continued non-compliance
 - What this means: Judicial oversight ineffective
 
-#### B. Sexual Assault - Systematic Pattern (8 min)
-- 1,224+ complaints by migrant women (2010-2017)
-- <1% investigated
-- 40% of trans detainees report abuse (13x higher than non-LGBT)
-- Pregnant women and minors (age 13) raped by agents
-- **January 2026:** Rape protections (PREA) deliberately revoked at 3+ facilities
-- Women raped by ICE agents confirmed (Center for Reproductive Rights)
+#### B. Explicit Racism - Direct Evidence (8 min)
+**Neo-Nazi Recruitment Content:**
+- "Which Way, American Man?" (Aug 2025) - neo-Nazi book reference
+- "We'll Have Our Home Again" (Jan 11, 2026) - mass shooter manifesto anthem
+- Federal judge: Policy "rooted in racism," "great replacement theory"
+
+**Trump Obama-Apes Video (Feb 5, 2026):**
+- Posted by sitting president
+- Deleted after 12 hours
+- Republican condemnation: "Most racist thing" (Tim Scott), "Blatantly racist" (John Curtis)
+
+#### C. Systemic/Institutional Racism - Disparate Impact (8 min)
+**Who Gets Targeted:**
+- 73.6% of detained have no criminal convictions
+- Targeting by ethnicity/national origin, not criminality
+- "Migrant crime wave" narrative contradicted by data
+
+**Outcomes Data:**
+- Cato Institute: Immigrants commit crimes at HALF native rate
+- Texas 2022: 4.9/100k natives vs 3.1/100k undocumented
+- Policy produces disparate harm regardless of stated intent
+
+**Pattern vs. Intent:**
+- Don't need racist intent if policy produces racist outcomes
+- Systemic racism = structures that harm regardless of individual beliefs
+- ICE operations disproportionately harm people of color
+
+#### D. Sexual Assault - Systematic Abuse (4 min)
+- 1,224+ complaints (2010-2017), <1% investigated
+- 40% trans detainees report abuse (13x non-LGBT rate)
+- Pregnant women, minors (age 13)
+- **Jan 2026:** Rape protections deliberately revoked at 3 facilities
 - Pattern: Protection removed, abuse escalates
 
-#### C. White Supremacist Recruitment (5 min)
-- Neo-Nazi recruitment content (Aug 2025, Jan 2026)
-- "Which Way, American Man?" - direct neo-Nazi book reference
-- "We'll Have Our Home Again" - anthem from mass shooter manifesto
-- Federal judge finding: Policy "rooted in racism," uses "great replacement theory"
-- **February 5, 2026:** Obama-apes video posted by Trump
-- Republican senators condemned as "most racist thing" (Tim Scott, John Curtis)
-
-#### D. Constitutional Violations (4 min)
-- Minneapolis ICE shooting (Feb 2026) - UN warned of "extrajudicial killing"
-- CECOT deportations without due process (200+ to El Salvador torture prison)
-- Judge ordered planes turned around - deportations proceeded anyway
-- Fourth Circuit: Government "screwed up," "unconscionable" (Reagan appointee)
+#### E. Constitutional Violations (4 min)
+- Minneapolis shooting - UN: "extrajudicial killing"
+- CECOT deportations - judge ordered planes turned, proceeded anyway
+- Fourth Circuit (Reagan appointee): "unconscionable"
+- Due process systematically violated
 
 ### Part 3: The Pattern (10 min)
 - Kings have enforcers who operate above law
@@ -92,9 +115,11 @@ categories: sessions
 
 ### Part 4: Discussion (15 min)
 - When does enforcement become secret police?
+- **Explicit vs. systemic racism:** Which is more harmful? Can you have one without the other?
 - Are these comparisons fair or hyperbolic?
 - What happens when courts can't enforce their orders?
 - Is sexual assault pattern accidental or systematic?
+- **If policy produces racist outcomes, does intent matter?**
 - What can citizens demand?
 
 ---
@@ -108,6 +133,7 @@ categories: sessions
 - [Human Rights](https://plato.stanford.edu/entries/rights-human/)
 - [Political Legitimacy](https://plato.stanford.edu/entries/legitimacy/)
 - [Authority](https://plato.stanford.edu/entries/authority/)
+- [Feminist Perspectives on Reproduction and the Family](https://plato.stanford.edu/entries/feminism-family/) (reproductive justice)
 
 **Due Process:**
 - [Wikipedia: Due Process](https://en.wikipedia.org/wiki/Due_process)
@@ -117,6 +143,29 @@ categories: sessions
 **Human Dignity:**
 - Kant on treatment of persons as ends
 - Universal Declaration of Human Rights
+
+### Systemic vs. Explicit Racism
+
+**Framework:**
+- [Wikipedia: Institutional Racism](https://en.wikipedia.org/wiki/Institutional_racism)
+- [Wikipedia: Systemic Racism](https://en.wikipedia.org/wiki/Systemic_racism)
+- Difference between individual prejudice and structural harm
+
+**Academic Sources:**
+- Eduardo Bonilla-Silva, *Racism without Racists* (2003)
+- Michelle Alexander, *The New Jim Crow* (2010)
+- Ibram X. Kendi, *How to Be an Antiracist* (2019)
+
+**Legal Doctrine:**
+- Disparate impact vs. disparate treatment
+- Washington v. Davis (1976) - Intent requirement
+- Griggs v. Duke Power (1971) - Disparate impact recognized
+
+**Why Both Matter:**
+- Explicit racism: Easy to identify, socially condemned
+- Systemic racism: Harder to see, often more harmful, produces ongoing disparate outcomes
+- Can exist independently or together
+- ICE case: BOTH present
 
 ### Authoritarianism and Secret Police
 
@@ -229,10 +278,23 @@ categories: sessions
 - Reagan appointee Judge Wilkinson: "Government screwed up," "unconscionable"
 - Zero evidence for MS-13 claims
 
-**Immigrant Crime Data:**
-- [Cato Institute: Crime Rates](https://www.cato.org/) (conservative/libertarian)
+**Systemic Racism Evidence:**
+
+**Disparate Impact Data:**
+- 73.6% detained have no criminal convictions
+- Targeting by ethnicity/origin, not criminality
+- Policy outcomes show racial disparities
+
+**Immigrant Crime Data (Conservative Source):**
+- [Cato Institute: Crime Rates](https://www.cato.org/) (libertarian/conservative think tank)
 - Immigrants commit crimes at HALF native rate
 - Texas 2022: 4.9/100k natives, 3.1/100k undocumented, 1.8/100k legal
+- **Contradicts "migrant crime wave" narrative with data**
+
+**Systemic Racism Analysis:**
+- Policies produce disparate racial harm
+- Outcomes matter regardless of stated intent
+- Pattern of enforcement targets people of color disproportionately
 
 ### Dehumanization Research
 
