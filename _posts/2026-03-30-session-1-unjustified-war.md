@@ -7,196 +7,201 @@ categories: sessions
 
 # 📅 Session 1: Did Donald Trump Start an Unjustified and Illegal War?
 
-**Date:** Sunday, March 30, 2026  
-**Time:** 2:00 PM - 3:30 PM  
-**Location:** The Oval, Ohio State University
-
----
-
-## Session Overview
-
-This session examines whether the Iran war is both **unjustified** (lacks just cause) and **illegal** (violates constitutional war powers).
-
-**Key evidence:** Trump's own Director of National Counterterrorism Center resigned stating the war "posed no imminent threat."
+**Sunday, March 30, 2026 | 2:00 PM - 3:30 PM | The Oval, OSU**
 
 ---
 
 ## Outline
 
-### Part 1: The Evidence (30 minutes)
+### Opening: Frame the Question (5 min)
+- Is this war justified and legal?
+- Our approach: Establish standards first, then examine evidence
+- Why it matters: Universal frameworks, not partisan claims
 
-#### A. Joe Kent Resignation - The Game-Changer
+### Part 1: The Frameworks (25 min)
 
-**Who:** Director, National Counterterrorism Center (NCTC)  
-**Background:** 
-- 20+ year Green Beret, 11 combat deployments
-- Trump's personal appointee (Feb 2025)
-- Senate-confirmed (July 2025, 52-44)
-- **His job:** Assess whether threats are imminent and credible
+#### A. Moral Framework: Just War Theory (10 min)
+- **Just Cause:** Legitimate reason for war
+- **Legitimate Authority:** Proper authorization
+- **Right Intention:** Not personal/ulterior motives
+- **Last Resort:** Diplomacy exhausted
+- **Proportionality:** Response fits threat
 
-**What happened:**
-- March 17, 2026: Kent resigned
-- **His statement:** War "posed no imminent threat"
-- **His assessment:** Driven by "Israeli and lobby pressures"
+#### B. International Law (5 min)
+- UN Charter: Self-defense only
+- War crimes: Targeting cultural sites prohibited
+- Accountability: International Criminal Court
 
-**Why this matters:**
-- Kent's literal job was compiling intelligence on Iranian threats for the President
-- If threat intelligence justified war, Kent would be coordinating response, not resigning
-- **His resignation IS his professional assessment:** No credible imminent threat
+#### C. United States Constitutional Law (10 min)
+- Article I, Section 8: Congress declares war
+- Why: Prevent monarchical war-making
+- War Powers Act: Authorization required within 60-90 days
 
----
+### Part 2: The Evidence (30 min)
 
-#### B. The War is ILLEGAL
+#### A. Joe Kent Resignation (10 min)
+- Director, National Counterterrorism Center
+- Statement: "No imminent threat"
+- Assessment: "Israeli and lobby pressures"
+- Significance: THE expert who determines threat credibility
 
-**Constitutional requirement:** Congress has sole power to declare war (Article I, Section 8)
+#### B. Just War Theory Test (10 min)
+- ❌ Just Cause: No imminent threat
+- ❌ Legitimate Authority: No congressional authorization
+- ❌ Right Intention: Personal grievances, lobby pressure
+- ❌ Last Resort: Negotiations ongoing
+- ❌ Proportionality: Largest deployment since Iraq 2003
+- **Result: 0 of 5 criteria met**
 
-**What happened:**
-- February 28, 2026: U.S.-Israeli strikes on Iran begin
-- **No congressional authorization**
-- Gang of Eight briefed, but briefing ≠ authorization
-- War Powers Act requires congressional approval within 60-90 days
+#### C. Constitutional Law Test (10 min)
+- ❌ Congressional authorization: None
+- ❌ Pentagon intelligence: No evidence Iran planning attack
+- ❌ War Powers compliance: Violation
+- **Status: Illegal war**
 
-**Pentagon contradiction:**
-- Closed-door briefing to Congress: **NO intelligence Iran planning to attack U.S. forces first**
-- White House claims different from intelligence assessment
+### Part 3: The Pattern (10 min)
+- George III started wars without consent
+- Founders gave Congress war power to prevent this
+- Trump's behavior matches monarchical pattern
+- Stakes: What's the difference from a king?
 
-**Status:** **Constitutional violation, illegal war**
-
----
-
-#### C. The War is UNJUSTIFIED (Just War Theory Test)
-
-**Requirement 1: Just Cause**
-- ❌ No evidence Iran planning to attack U.S. forces (Pentagon contradiction)
-- ❌ Kent (NCTC Director) assessed: "No imminent threat"
-- **FAILED**
-
-**Requirement 2: Legitimate Authority**
-- ❌ No congressional authorization
-- ❌ Constitutional violation
-- **FAILED**
-
-**Requirement 3: Right Intention**
-- ❌ Personal grievances (Soleimani 2020 killing)
-- ❌ Netanyahu pitch: "could all be killed in single airstrike"
-- ❌ Kent assessment: "Israeli and lobby pressures"
-- **FAILED**
-
-**Requirement 4: Last Resort**
-- ❌ 3 rounds of negotiations collapsed 2 days before strikes
-- ❌ Round 3 reported "good progress" - then attacked anyway
-- **FAILED**
-
-**Requirement 5: Proportionality**
-- ❌ Largest military deployment since Iraq 2003
-- ❌ Oil supply disruption threatening global economy
-- ❌ Trump threatens expansion to "no functioning military"
-- **FAILED**
-
-**Result: 0 of 5 requirements met**
+### Part 4: Discussion (20 min)
+- Do these frameworks still matter?
+- If the CT expert says no threat, what justifies this?
+- What should Congress do?
+- What can citizens demand?
 
 ---
 
-#### D. Intelligence Community Contradictions
+## Sources
 
-**DNI Tulsi Gabbard and CIA Director John Ratcliffe testimony:**
-- Iranian leadership "largely degraded"
-- Government "appears to be intact"
-- **Undermined Trump's claim** that war was necessary due to imminent missile threat
+### Primary Documents
 
-**Congressional response:**
-- Senate voted 53-47 (party lines) to block war authorization debate
-- Schumer: "We do not know Donald Trump's goals. We do not know his timeline. We do not know what victory even looks like."
+**U.S. Constitution**
+- [Article I, Section 8](https://constitution.congress.gov/browse/article-1/section-8/) - War Powers
 
-**No clear objectives or exit strategy**
+**Declaration of Independence**
+- [Text at National Archives](https://www.archives.gov/founding-docs/declaration-transcript)
+- Grievance: "He has kept among us, in times of peace, Standing Armies without the Consent of our legislatures"
 
----
+**War Powers Resolution (1973)**
+- [50 U.S.C. § 1541](https://www.law.cornell.edu/uscode/text/50/chapter-33)
 
-### Part 2: The Monarchical Pattern (15 minutes)
+**UN Charter**
+- [Chapter VII, Article 51](https://www.un.org/en/about-us/un-charter/chapter-7) - Self-Defense
 
-#### Kings Start Wars Without Permission
+### Joe Kent Resignation
 
-**George III grievance (Declaration of Independence):**
-> "He has kept among us, in times of peace, Standing Armies without the Consent of our legislatures"
+**News Coverage:**
+- [Fortune: Who is Joe Kent?](https://fortune.com/2026/03/17/who-is-joe-kent-green-beret-maga-loyalist-former-political-candidate-who-quit-over-iran/) (March 17, 2026)
+- [Times of India: Kent Resignation](https://timesofindia.indiatimes.com/) (March 17, 2026)
 
-**Constitutional design:**
-- Founders gave Congress war power specifically to prevent monarchical war-making
-- Personal grievances cannot justify dragging nation into war
-- Legislative consent required
+**Background:**
+- [DNI.gov: NCTC Director Role](https://www.dni.gov/index.php/nctc-who-we-are/director-nctc)
+- [Green Beret PAC: Kent Bio](https://greenberetpac.com/joe-kent/)
 
-**Trump's pattern:**
-- Decided alone (no congressional vote)
-- Personal grievances (Soleimani 2020)
-- Threatens unlimited escalation ("52 targets including cultural sites")
-- No accountability for consequences
+### Iran War Timeline
 
-**This IS monarchical behavior** - exactly what founders designed Constitution to prevent
+**Military Deployments:**
+- [Politico: U.S. Buildup](https://www.politico.com/) (Feb 2026)
+- [Defense News: Carrier Deployments](https://www.defensenews.com/) (Jan-Feb 2026)
 
----
+**Diplomatic Negotiations:**
+- Geneva talks: Feb 6, 17, 26, 2026
+- [Reuters: Negotiation Coverage](https://www.reuters.com/)
 
-### Part 3: Discussion & Q&A (45 minutes)
+**Intelligence Assessments:**
+- DNI Tulsi Gabbard testimony (March 2026)
+- CIA Director John Ratcliffe statements
+- Pentagon closed-door briefing to Congress
 
-**Questions for exploration:**
+**Congressional Response:**
+- Senate vote 53-47 blocking authorization debate
+- Senator Schumer floor statement (March 2026)
 
-1. If Joe Kent (the nation's top CT expert) says there's no imminent threat, who should we believe?
+### Just War Theory
 
-2. Can a war be legal if Congress never authorized it? What does Article I mean?
+**Academic Sources:**
+- [Stanford Encyclopedia of Philosophy: War](https://plato.stanford.edu/entries/war/)
+- [Internet Encyclopedia of Philosophy: Just War Theory](https://iep.utm.edu/justwar/)
+- [Wikipedia: Just War Theory](https://en.wikipedia.org/wiki/Just_war_theory)
 
-3. How many Just War requirements need to fail before we call it unjustified?
+**Historical Development:**
+- Augustine of Hippo (4th-5th century)
+- Thomas Aquinas (13th century)
+- Hugo Grotius (17th century)
 
-4. If Trump can start wars alone, what's the difference between president and king?
+### International Law
 
-5. What should citizens demand when constitutional war powers are violated?
+**UN Charter:**
+- [Full Text](https://www.un.org/en/about-us/un-charter/full-text)
+- Article 2(4): Prohibition of force
+- Article 51: Self-defense exception
 
-**Constitutional remedies:**
-- Congressional war authorization (Article I)
-- Impeachment for abuse of power (Article II, Section 4)
-- Judicial review of executive overreach
+**Geneva Conventions:**
+- [ICRC: Geneva Conventions](https://www.icrc.org/en/war-and-law/treaties-customary-law/geneva-conventions)
+- Protection of cultural property
 
----
+**International Criminal Court:**
+- [ICC: War Crimes](https://www.icc-cpi.int/about/how-the-court-works)
 
-## Key Evidence Documents
+### Constitutional History
 
-*Evidence files with full documentation and sources are available for review.*
+**Founding Era:**
+- [Federalist Papers](https://guides.loc.gov/federalist-papers/full-text)
+- [James Madison on War Powers](https://founders.archives.gov/)
 
-### Primary Sources
-- Joe Kent resignation statement (March 17, 2026)
-- U.S. Constitution (Article I, Section 8)
-- Declaration of Independence (grievances against George III)
-- Congressional testimony transcripts
+**War Powers Resolution:**
+- [CRS Report: War Powers Resolution](https://crsreports.congress.gov/)
+- [Congressional Research Service](https://www.congress.gov/)
 
-### Research Documentation
-- Iran war timeline and deployments
-- Just War Theory framework analysis
-- Joe Kent background and NCTC Director role
-- Intelligence community assessments
-- Constitutional war powers history
+**Precedent:**
+- [National Archives: Presidential War Powers](https://www.archives.gov/)
+
+### George III Parallels
+
+**Declaration Grievances:**
+- [National Archives: Declaration](https://www.archives.gov/founding-docs/declaration-transcript)
+- Standing armies without consent
+- Waging war without legislative approval
+
+**Constitutional Convention:**
+- [James Madison Notes](https://avalon.law.yale.edu/18th_century/debates_719.asp)
+- Debates on war-making power
 
 ### Conservative Sources
-- Pentagon briefing reports
-- Intelligence official testimony
-- Republican congressional statements
-- Court opinions on executive power limits
+
+**Fox News:**
+- Iran conflict coverage (Feb-March 2026)
+- Joe Kent background reporting
+
+**National Review:**
+- War powers constitutional analysis
+
+**Wall Street Journal:**
+- Pentagon deployment reporting
+
+**Heritage Foundation:**
+- [War Powers and Constitution](https://www.heritage.org/)
+
+### Additional Reading
+
+**Books:**
+- Michael Walzer, *Just and Unjust Wars* (1977)
+- Louis Fisher, *Presidential War Power* (3rd ed., 2013)
+
+**Reports:**
+- Congressional Research Service reports on War Powers
+- Pentagon briefing materials (public portions)
 
 ---
 
 ## Discussion Ground Rules
 
-✅ **Evidence-based:** Claims require sources  
-✅ **Good faith:** Genuine questions welcome  
-✅ **Respectful:** Disagree on ideas, not people  
-✅ **Open-minded:** Consider evidence even if uncomfortable  
-
-**Remember:** This is a public forum. All viewpoints protected under First Amendment and Ohio law.
-
----
-
-## What's Next
-
-**Session 2 (April 6):** Is Donald Trump Using the Presidency to Get Rich?
-- Family enrichment evidence
-- Emoluments violations
-- Constitutional provisions against corruption
+✅ Evidence-based claims  
+✅ Good faith questions  
+✅ Respectful disagreement  
+✅ Open-minded consideration  
 
 ---
 
@@ -205,4 +210,4 @@ This session examines whether the Iran war is both **unjustified** (lacks just c
 
 ---
 
-**Disclaimer:** Citizen Steve does not represent The Ohio State University. These are individual First Amendment activities in a public forum. See [About](/about) page for legal framework.
+**Disclaimer:** Citizen Steve does not represent The Ohio State University. See [About](/about) for legal framework.
