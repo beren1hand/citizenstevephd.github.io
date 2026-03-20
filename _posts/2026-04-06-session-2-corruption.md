@@ -7,72 +7,215 @@ categories: sessions
 
 # 💰 Session 2: Is Donald Trump Using the Presidency to Get Rich?
 
-**Date:** Sunday, April 6, 2026  
-**Time:** 2:00 PM - 3:30 PM  
-**Location:** The Oval, Ohio State University
-
----
-
-## Session Overview
-
-This session examines whether Trump is enriching himself and his family through the presidency, violating constitutional provisions against corruption.
-
-**Key evidence:** $TRUMP memecoin ($800M+), Kushner family $640M, CREW documenting 3,700+ conflicts of interest
+**Sunday, April 6, 2026 | 2:00 PM - 3:30 PM | The Oval, OSU**
 
 ---
 
 ## Outline
 
-### Part 1: The Evidence (30 minutes)
+### Opening: Frame the Question (5 min)
+- Is Trump enriching himself and family through office?
+- Our approach: Why did founders care about this?
+- Stakes: If office = profit opportunity, what prevents monarchy?
 
-#### A. $TRUMP Memecoin - $800M+ While President
+### Part 1: The Frameworks (30 min)
 
-**What happened:**
-- Cryptocurrency launched while Trump is sitting president
-- Holdings valued at $800M+ 
-- World Liberty Financial: $5M for "direct access"
-- Potential foreign buyers (untraceable)
+#### A. Moral Framework: Why Corruption Matters (10 min)
+- Public office as sacred trust vs. profit opportunity
+- Conflicts of interest undermine public service
+- When leaders profit, who do they serve?
+- Universal principle across cultures and eras
 
-**Constitutional issue:** Emoluments violations
+#### B. Political Theory: Corruption → Tyranny (10 min)
+- Classical republican thought: Corruption destroys republics
+- When leaders enrich themselves, accountability disappears
+- Hereditary wealth + power = aristocracy/monarchy
+- Founders' fear: Office becomes hereditary if profitable
+- Why this matters: Path from corruption to kingship
 
-#### B. Family Enrichment - Jared & Ivanka $640M
+#### C. U.S. Constitutional Law: Emoluments Clauses (10 min)
+- **Foreign Emoluments Clause** (Article I, Section 9): No gifts/profits from foreign states
+- **Domestic Emoluments Clause** (Article II, Section 1): President's salary only, no other profit from office
+- **Why founders included these:** Fresh memory of royal corruption, colonial governors enriching themselves
+- **Intent:** Office = service, not business opportunity
+- **Enforcement:** Congress can investigate, impeach, courts can rule
 
-**First term earnings:**
-- $640 million earned during White House service
-- Post-term: Saudi $2B fund to Kushner
-- Official positions without Senate confirmation
+### Part 2: The Evidence (30 min)
 
-**Monarchical pattern:** Family dynasty building wealth from power
+#### A. $TRUMP Memecoin - $800M+ While President (10 min)
+- Launched during presidency
+- Holdings valued $800M+
+- Potential foreign buyers (untraceable crypto)
+- Constitutional issue: Who's buying influence?
 
-#### C. CREW 3,700+ Conflicts
+#### B. Family Enrichment - Dynasty Building (10 min)
+- **Jared & Ivanka:** $640M earned during first term
+- **Post-term:** Saudi $2B fund to Kushner
+- **World Liberty Financial:** $5M for "direct access"
+- Official White House positions without Senate confirmation
+- Pattern: Family wealth + power = hereditary succession risk
 
-**Conservative source documentation:**
+#### C. CREW 3,700+ Conflicts Documented (10 min)
 - Citizens for Responsibility and Ethics in Washington
-- 3,700+ first-term conflicts documented
-- No divestment, no tax returns
-- Mar-a-Lago diplomacy (mixing personal/state interests)
+- Conservative source, documented evidence
+- No divestment from businesses
+- Mar-a-Lago diplomacy: Foreign officials paying Trump properties
+- Tax returns never released (unprecedented)
+
+### Part 3: The Pattern (10 min)
+- Founders rejected monarchy/aristocracy specifically
+- Emoluments clauses designed to prevent this
+- Trump's behavior: Exactly what Constitution prohibits
+- Stakes: If president can profit from office, what prevents kingship?
+- Foreshadowing: Session 5 will show this is part of larger monarchical pattern
+
+### Part 4: Discussion (15 min)
+- Do emoluments clauses mean anything if unenforced?
+- Is family enrichment different from personal enrichment?
+- How do we know foreign entities aren't buying influence?
+- What accountability should exist?
+- What can citizens demand?
 
 ---
 
-### Part 2: The Monarchical Pattern (15 minutes)
+## Sources
 
-**George III parallel:** Kings enrich themselves and families from power
+### Primary Documents
 
-**Constitutional design:** Emoluments clauses prevent exactly this
+**U.S. Constitution**
+- [Article I, Section 9 - Foreign Emoluments Clause](https://constitution.congress.gov/browse/article-1/section-9/)
+- [Article II, Section 1 - Domestic Emoluments Clause](https://constitution.congress.gov/browse/article-2/section-1/)
 
-**Founders' intent:** Office is service, not profit opportunity
+**Federalist Papers**
+- [Federalist No. 10 (Madison): Factions and Corruption](https://guides.loc.gov/federalist-papers/text-1-10#s-lg-box-wrapper-25493273)
+- [Federalist No. 75 (Hamilton): Foreign Corruption](https://guides.loc.gov/federalist-papers/text-71-80#s-lg-box-wrapper-25493431)
+
+**Constitutional Convention**
+- [James Madison Notes: Debates on Emoluments](https://avalon.law.yale.edu/18th_century/debates_719.asp)
+
+### Moral and Political Philosophy
+
+**Stanford Encyclopedia of Philosophy:**
+- [Political Corruption](https://plato.stanford.edu/entries/political-corruption/)
+- [Republicanism](https://plato.stanford.edu/entries/republicanism/)
+- [Public Office](https://plato.stanford.edu/entries/public-office/)
+
+**Classical Sources:**
+- Aristotle, *Politics* - Corruption of constitutions
+- Cicero, *On Duties* - Public service ethics
+- Machiavelli, *Discourses* - Corruption destroys republics
+
+**Modern Analysis:**
+- [Wikipedia: Political Corruption](https://en.wikipedia.org/wiki/Political_corruption)
+- [Wikipedia: Emoluments Clause](https://en.wikipedia.org/wiki/Title_of_Nobility_Clause)
+
+### Trump Corruption Evidence
+
+**$TRUMP Memecoin:**
+- [Forbes: Trump Crypto Holdings](https://www.forbes.com/) (Jan-Feb 2026)
+- [Wall Street Journal: Memecoin Analysis](https://www.wsj.com/) (Feb 2026)
+- [Reuters: World Liberty Financial](https://www.reuters.com/) (2025-2026)
+
+**Family Enrichment:**
+- [CREW: Kushner $640M Report](https://www.citizensforethics.org/)
+- [Washington Post: Saudi Fund to Kushner](https://www.washingtonpost.com/) (2022-2023)
+- [CNN: Ivanka China Trademarks](https://www.cnn.com/) (2017-2021)
+
+**CREW Conflicts Documentation:**
+- [CREW: 3,700+ Conflicts Report](https://www.citizensforethics.org/reports-investigations/crew-reports/)
+- [CREW: Emoluments Lawsuits](https://www.citizensforethics.org/legal-action/lawsuits/emoluments-lawsuits/)
+
+**Mar-a-Lago Diplomacy:**
+- [ProPublica: Foreign Officials at Trump Properties](https://www.propublica.org/)
+- [NBC News: Mar-a-Lago Revenue During Presidency](https://www.nbcnews.com/)
+
+**Tax Returns:**
+- [New York Times: Trump Tax Investigation](https://www.nytimes.com/) (2020-2022)
+- Refusal to release returns (broke 40+ year precedent)
+
+### Constitutional Analysis
+
+**Emoluments Clause History:**
+- [CRS Report: Foreign Emoluments Clause](https://crsreports.congress.gov/)
+- [CRS Report: Domestic Emoluments Clause](https://crsreports.congress.gov/)
+- [Heritage Foundation: Emoluments Original Intent](https://www.heritage.org/)
+
+**Legal Challenges:**
+- [DC Circuit Opinion: CREW v. Trump](https://www.cadc.uscourts.gov/) (dismissed on standing)
+- [Maryland/DC AG Lawsuit](https://www.marylandattorneygeneral.gov/)
+
+**Founding Era Context:**
+- [National Archives: Colonial Corruption](https://www.archives.gov/)
+- Royal governors enriching themselves (pre-Revolution)
+- British aristocracy as warning example
+
+### Republican Political Theory
+
+**Classical Republicanism:**
+- Virtue required for republic survival
+- Corruption as existential threat
+- Public service vs. private enrichment
+- Why founders studied Rome's fall
+
+**American Founding:**
+- [James Madison on Corruption](https://founders.archives.gov/)
+- [Benjamin Franklin: "A Republic, if you can keep it"](https://www.archives.gov/)
+- [George Washington Farewell Address](https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/washingtons-farewell-address-1796/) - Warning against corruption
+
+### Monarchy vs. Republic
+
+**Why Emoluments Matter:**
+- Kings enrich themselves and families from power
+- Hereditary succession follows hereditary wealth
+- Founders designed Constitution to prevent this
+- Emoluments clauses = anti-monarchical provisions
+
+**Historical Examples:**
+- British monarchy and aristocracy
+- French monarchy pre-Revolution
+- What founders explicitly rejected
+
+### Conservative Sources
+
+**Fox Business:**
+- Trump cryptocurrency coverage
+- Business conflicts reporting
+
+**Wall Street Journal:**
+- Financial disclosure analysis
+- Family business dealings
+
+**National Review:**
+- [Emoluments Clause Conservative Analysis](https://www.nationalreview.com/)
+
+**Cato Institute:**
+- [Executive Power and Corruption](https://www.cato.org/)
+
+### Additional Reading
+
+**Books:**
+- Zephyr Teachout, *Corruption in America* (2014) - Founding era understanding
+- Norman Eisen, *A Case for the American People* (2020) - Trump emoluments violations
+- Richard Painter, *Taxation Only with Representation* (2016) - Presidential ethics
+
+**Reports:**
+- CREW comprehensive reports on Trump conflicts
+- Government Accountability Office analyses
+- Congressional testimony transcripts
+
+**Academic Articles:**
+- Seth Barrett Tillman on emoluments clause interpretation
+- Laurence Tribe on constitutional violations
+- Multiple law review articles on presidential enrichment
 
 ---
 
-### Part 3: Discussion & Q&A (45 minutes)
+## Discussion Ground Rules
 
-**Questions for exploration:**
-
-1. Should presidents be allowed to profit from office while serving?
-2. What are emoluments clauses for if not preventing this?
-3. Is family enrichment different from personal enrichment?
-4. How do we know foreign entities aren't buying influence through crypto?
-5. What accountability mechanisms should exist?
+✅ Evidence-based claims  
+✅ Good faith questions  
+✅ Respectful disagreement  
+✅ Open-minded consideration  
 
 ---
 
@@ -80,7 +223,5 @@ This session examines whether Trump is enriching himself and his family through 
 <a href="/" class="button button-blue">🏛️ Home</a>
 
 ---
-
-*Detailed outline with full evidence will be available week of session.*
 
 **Disclaimer:** Citizen Steve does not represent The Ohio State University. See [About](/about) for legal framework.
