@@ -18,29 +18,36 @@ categories: sessions
 - Our approach: Why did founders care about this?
 - Stakes: If office = profit opportunity, what prevents monarchy?
 
-### Part 1: The Frameworks (30 min)
+### Part 1: The Frameworks (35 min)
 
-#### A. Moral Framework: Why Corruption Matters (10 min)
+#### A. Moral Framework: Why Corruption Matters (8 min)
 - Public office as sacred trust vs. profit opportunity
 - Conflicts of interest undermine public service
 - When leaders profit, who do they serve?
 - Universal principle across cultures and eras
 
-#### B. Political Theory: Corruption → Tyranny (10 min)
+#### B. Political Theory: Corruption → Tyranny (8 min)
 - Classical republican thought: Corruption destroys republics
 - When leaders enrich themselves, accountability disappears
 - Hereditary wealth + power = aristocracy/monarchy
 - Founders' fear: Office becomes hereditary if profitable
 - Why this matters: Path from corruption to kingship
 
-#### C. U.S. Constitutional Law: Emoluments Clauses (10 min)
+#### C. U.S. Constitutional Law: Emoluments Clauses (9 min)
 - **Foreign Emoluments Clause** (Article I, Section 9): No gifts/profits from foreign states
 - **Domestic Emoluments Clause** (Article II, Section 1): President's salary only, no other profit from office
 - **Why founders included these:** Fresh memory of royal corruption, colonial governors enriching themselves
 - **Intent:** Office = service, not business opportunity
 - **Enforcement:** Congress can investigate, impeach, courts can rule
 
-### Part 2: The Evidence (30 min)
+#### D. Historical Precedents (10 min)
+- British monarchy and aristocracy (what founders rejected)
+- Colonial governors enriching themselves
+- Rome's fall: Corruption destroyed republic
+- Modern examples: When office becomes profit center, democracy fails
+- Why emoluments violations matter: Slippery slope to hereditary rule
+
+### Part 2: The Evidence in This Case (25 min)
 
 #### A. $TRUMP Memecoin - $800M+ While President (10 min)
 - Launched during presidency

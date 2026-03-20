@@ -18,26 +18,33 @@ categories: sessions
 - Our approach: Establish standards first, then examine evidence
 - Why it matters: Universal frameworks, not partisan claims
 
-### Part 1: The Frameworks (25 min)
+### Part 1: The Frameworks (30 min)
 
-#### A. Moral Framework: Just War Theory (10 min)
+#### A. Moral Framework: Just War Theory (8 min)
 - **Just Cause:** Legitimate reason for war
 - **Legitimate Authority:** Proper authorization
 - **Right Intention:** Not personal/ulterior motives
 - **Last Resort:** Diplomacy exhausted
 - **Proportionality:** Response fits threat
 
-#### B. International Law (5 min)
+#### B. International Law (4 min)
 - UN Charter: Self-defense only
 - War crimes: Targeting cultural sites prohibited
 - Accountability: International Criminal Court
 
-#### C. United States Constitutional Law (10 min)
+#### C. United States Constitutional Law (8 min)
 - Article I, Section 8: Congress declares war
 - Why: Prevent monarchical war-making
 - War Powers Act: Authorization required within 60-90 days
 
-### Part 2: The Evidence (30 min)
+#### D. Historical Precedents (10 min)
+- Vietnam War: McNamara resignation after years
+- Iraq War 2003: No major resignations during buildup
+- Gulf War 1991: Congressional authorization obtained
+- Why Kent resignation (2.5 weeks) is unprecedented
+- Pattern: When wars justified, officials stay to manage them
+
+### Part 2: The Evidence in This Case (25 min)
 
 #### A. Joe Kent Resignation (10 min)
 - Director, National Counterterrorism Center

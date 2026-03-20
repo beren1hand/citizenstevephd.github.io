@@ -18,16 +18,16 @@ categories: sessions
 - Why this question makes people uncomfortable
 - Our approach: Epistemology first, then evidence
 
-### Part 1: The Frameworks (35 min)
+### Part 1: The Frameworks (40 min)
 
-#### A. Epistemology: Conspiracy Theories and Evidence (15 min)
+#### A. Epistemology: Conspiracy Theories and Evidence (12 min)
 - **What counts as evidence?** (Dentith framework)
 - Difference between conspiracy theory and conspiracy fact
 - When is skepticism about power warranted?
 - Epistemic duty to investigate institutional failures
 - "Conspiracy theorist" as thought-terminating cliche
 
-#### B. Risk Framework: Type 1 vs Type 2 Errors (10 min)
+#### B. Risk Framework: Type 1 vs Type 2 Errors (8 min)
 - **Type 1 Error (False Positive):** Investigating when nothing there
   - Cost: Wasted resources, some embarrassment
   - Harm: Minimal - investigation closes, move on
@@ -37,14 +37,21 @@ categories: sessions
 - **Asymmetry matters:** Risk of under-investigation >> risk of over-investigation
 - Applied to Epstein: Which error should we fear more?
 
-#### C. U.S. Law: Transparency and Accountability (10 min)
+#### C. U.S. Law: Transparency and Accountability (8 min)
 - **Freedom of Information Act (FOIA):** Right to government records
 - **Epstein Files Transparency Act:** Mandated release
 - **Congressional oversight:** Power to investigate, subpoena
 - **Public interest:** Why transparency matters for democracy
 - **Obstruction:** What it looks like when investigation blocked
 
-### Part 2: The Evidence *(To be developed)* (25 min)
+#### D. Historical Precedents (12 min)
+- **Confirmed conspiracies:** Watergate, Iran-Contra, COINTELPRO, Tuskegee, MKUltra
+- **Institutional protection patterns:** Catholic Church, Penn State, USA Gymnastics
+- **Common features:** Delayed transparency, pressure on investigators, protection of powerful
+- **Why this matters:** Real conspiracies happen, dismissing investigation enables abuse
+- **Type 2 errors in history:** What happens when we don't investigate
+
+### Part 2: The Evidence in This Case *(To be developed)* (20 min)
 
 #### A. Transparency Act Failures (10 min)
 - 200K+ pages redacted
