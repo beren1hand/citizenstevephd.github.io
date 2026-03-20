@@ -1,64 +1,38 @@
 ---
 layout: default
-title: Oval Hours Schedule
+title: All Sessions
 ---
 
 # 📚 Citizen Steve's Oval Hours
 
-## Five Sundays: March 30 - April 27, 2026
+## All Sessions
 
 **Location:** The Oval, Ohio State University  
-**Time:** 2:00 PM - 3:30 PM (each session)  
+**Time:** Sundays, 2:00 PM - 3:30 PM  
 **Format:** Evidence presentation, open discussion, Q&A
 
-Each session examines one critical question about American democracy and constitutional governance.
-
-**Detailed outlines and evidence links will be published the week before each session.**
+Each session examines one critical question about American democracy and constitutional governance using evidence-based analysis and founding principles.
 
 ---
 
-## Session 1: Did Donald Trump Start an Unjustified and Illegal War?
+{% for post in site.posts %}
+<div class="card">
 
-**Date:** Sunday, March 30, 2026  
-**Time:** 2:00 PM - 3:30 PM
+## {{ post.title }}
 
-**Coming soon:** Full outline with evidence on Iran conflict, congressional war powers, Just War Theory analysis, and Joe Kent resignation (NCTC Director who stated war "posed no imminent threat")
+**{{ post.date | date: "%A, %B %d, %Y" }}**  
+**2:00 PM - 3:30 PM, The Oval**
 
----
+{{ post.excerpt }}
 
-## Session 2: Is Donald Trump Using the Presidency to Get Rich?
+{% if post.date <= site.time %}
+<a href="{{ post.url | relative_url }}" class="button">📋 View Full Outline & Evidence</a>
+{% else %}
+*Full outline will be available closer to session date*
+{% endif %}
 
-**Date:** Sunday, April 6, 2026  
-**Time:** 2:00 PM - 3:30 PM
-
-**Coming soon:** Evidence on $TRUMP memecoin, family enrichment, emoluments violations, and constitutional provisions
-
----
-
-## Session 3: Is Donald Trump Protecting Jeffrey Epstein's Network?
-
-**Date:** Sunday, April 13, 2026  
-**Time:** 2:00 PM - 3:30 PM
-
-**Coming soon:** Documentation of transparency failures, network connections, and institutional accountability gaps
-
----
-
-## Session 4: Is Donald Trump Building a Secret Police Force?
-
-**Date:** Sunday, April 20, 2026  
-**Time:** 2:00 PM - 3:30 PM
-
-**Coming soon:** Evidence of court order defiance, constitutional violations, and systematic abuse patterns
-
----
-
-## Session 5: Is Donald Trump Trying to Become King?
-
-**Date:** Sunday, April 27, 2026  
-**Time:** 2:00 PM - 3:30 PM
-
-**Coming soon:** Declaration of Independence test, monarchical pattern analysis, and constitutional remedies
+</div>
+{% endfor %}
 
 ---
 
@@ -70,5 +44,4 @@ These sessions occur in a traditional public forum under Ohio law (ORC 3345.0215
 
 ---
 
-<a href="/" class="button">🏛️ Back to Home</a>
-<a href="/about" class="button button-blue">📜 Legal Framework</a>
+<a href="/" class="button button-blue">🏛️ Back to Home</a>

@@ -7,50 +7,55 @@ title: Home
 
 ## Evidence-Based Education on American Democracy
 
-**Citizen Steve's Oval Hours:** Five weeks of public education on critical questions about American democracy and constitutional governance.
+**Citizen Steve's Oval Hours:** Public education on critical questions about American democracy and constitutional governance.
 
 **Location:** The Oval, Ohio State University (traditional public forum)  
-**Format:** Open conversation, evidence presentation, Q&A  
+**Time:** Sundays, 2:00 PM - 3:30 PM  
 **Approach:** PhD-level rigor, accessible presentation, all evidence sourced
 
 ---
 
-## Upcoming Oval Hours
+## Upcoming Sessions
 
-### 📅 Session 1: Did Donald Trump Start an Unjustified and Illegal War?
-**Date:** Sunday, March 30, 2026  
-**Time:** 2:00 PM - 3:30 PM  
-**The Oval, OSU Campus**
+{% assign future_posts = site.posts | where_exp: "post", "post.date >= site.time" | sort: "date" %}
+{% assign past_posts = site.posts | where_exp: "post", "post.date < site.time" | sort: "date" | reverse %}
 
-**Coming soon:** Detailed outline and evidence links will be published the week before
+{% if future_posts.size > 0 %}
+### Next Up
 
----
+{% for post in future_posts limit:3 %}
+<div class="card">
 
-### 💰 Session 2: Is Donald Trump Using the Presidency to Get Rich?
-**Date:** Sunday, April 6, 2026  
-**Time:** 2:00 PM - 3:30 PM  
-**The Oval, OSU Campus**
+#### {{ post.title }}
+**{{ post.date | date: "%A, %B %d, %Y" }}**  
+**2:00 PM - 3:30 PM, The Oval**
 
----
+{% if post.date <= site.time %}
+<a href="{{ post.url | relative_url }}" class="button">📋 View Full Outline</a>
+{% else %}
+*Full outline and evidence will be available closer to session date*
+{% endif %}
 
-### 🔍 Session 3: Is Donald Trump Protecting Jeffrey Epstein's Network?
-**Date:** Sunday, April 13, 2026  
-**Time:** 2:00 PM - 3:30 PM  
-**The Oval, OSU Campus**
+</div>
+{% endfor %}
+{% endif %}
 
----
+{% if past_posts.size > 0 %}
+### Recent Sessions
 
-### 🚔 Session 4: Is Donald Trump Building a Secret Police Force?
-**Date:** Sunday, April 20, 2026  
-**Time:** 2:00 PM - 3:30 PM  
-**The Oval, OSU Campus**
+{% for post in past_posts limit:2 %}
+<div class="card">
 
----
+#### {{ post.title }}
+**{{ post.date | date: "%B %d, %Y" }}**
 
-### 👑 Session 5: Is Donald Trump Trying to Become King?
-**Date:** Sunday, April 27, 2026  
-**Time:** 2:00 PM - 3:30 PM  
-**The Oval, OSU Campus**
+<a href="{{ post.url | relative_url }}" class="button">📖 View Session</a>
+
+</div>
+{% endfor %}
+
+<a href="/sessions" class="button button-blue">📚 View All Sessions</a>
+{% endif %}
 
 ---
 
@@ -70,7 +75,7 @@ title: Home
 
 The costume and persona establish clear separation from professional role. This is scholarship in service of democracy.
 
-<a href="/about" class="button button-blue">📜 Learn More</a>
+<a href="/about" class="button button-blue">📜 Learn More About Legal Framework</a>
 
 ---
 
@@ -78,4 +83,4 @@ The costume and persona establish clear separation from professional role. This 
 
 These sessions occur in a **traditional public forum** (The Oval) under Ohio law and OSU policy. All viewpoints are welcome. Evidence-based inquiry is protected speech.
 
-See [About](/about) page for legal framework and disclaimer.
+See [About](/about) page for complete legal framework and disclaimer.

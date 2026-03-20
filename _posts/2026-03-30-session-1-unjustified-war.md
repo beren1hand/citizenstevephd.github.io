@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Session 1 - Unjustified and Illegal War
+title: "Session 1: Did Donald Trump Start an Unjustified and Illegal War?"
+date: 2026-03-30 14:00:00 -0400
+categories: sessions
 ---
 
 # 📅 Session 1: Did Donald Trump Start an Unjustified and Illegal War?
@@ -42,11 +44,6 @@ This session examines whether the Iran war is both **unjustified** (lacks just c
 - If threat intelligence justified war, Kent would be coordinating response, not resigning
 - **His resignation IS his professional assessment:** No credible imminent threat
 
-**Sources:**
-- Fortune (March 17, 2026): Kent resignation coverage
-- DNI.gov: NCTC Director role description
-- Perplexity research: Kent background and statement
-
 ---
 
 #### B. The War is ILLEGAL
@@ -64,11 +61,6 @@ This session examines whether the Iran war is both **unjustified** (lacks just c
 - White House claims different from intelligence assessment
 
 **Status:** **Constitutional violation, illegal war**
-
-**Sources:**
-- U.S. Constitution Article I, Section 8
-- War Powers Act
-- Congressional briefing reports (March 2026)
 
 ---
 
@@ -103,11 +95,6 @@ This session examines whether the Iran war is both **unjustified** (lacks just c
 
 **Result: 0 of 5 requirements met**
 
-**Sources:**
-- Just War Theory framework (academic sources)
-- Timeline of negotiations (Geneva Feb 6, 17, 26)
-- Pentagon deployment data
-
 ---
 
 #### D. Intelligence Community Contradictions
@@ -122,10 +109,6 @@ This session examines whether the Iran war is both **unjustified** (lacks just c
 - Schumer: "We do not know Donald Trump's goals. We do not know his timeline. We do not know what victory even looks like."
 
 **No clear objectives or exit strategy**
-
-**Sources:**
-- Intelligence community testimony (March 2026)
-- Senate floor debate transcripts
 
 ---
 
@@ -174,7 +157,7 @@ This session examines whether the Iran war is both **unjustified** (lacks just c
 
 ## Key Evidence Documents
 
-*Note: Evidence files available for review. Detailed documentation with sources provided.*
+*Evidence files with full documentation and sources are available for review.*
 
 ### Primary Sources
 - Joe Kent resignation statement (March 17, 2026)
@@ -217,13 +200,9 @@ This session examines whether the Iran war is both **unjustified** (lacks just c
 
 ---
 
-<a href="/sessions" class="button">📚 Back to Schedule</a>
+<a href="/sessions" class="button">📚 All Sessions</a>
 <a href="/" class="button button-blue">🏛️ Home</a>
 
 ---
-
-## 📧 Questions?
-
-Email steve@citizenstevephd.com
 
 **Disclaimer:** Citizen Steve does not represent The Ohio State University. These are individual First Amendment activities in a public forum. See [About](/about) page for legal framework.

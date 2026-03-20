@@ -1,312 +1,265 @@
-# Citizen Steve PhD - Rollout Plan
+# Citizen Steve PhD - Rollout Plan (Posts-Based)
 
-**Strategy:** Phased weekly reveal of session details
-
----
-
-## Current Status
-
-**✅ Published (visible on site):**
-- Homepage with "Oval Hours" schedule (dates + questions only)
-- About page with legal framework
-- Sessions page (teaser format, no details)
-- Resources page (placeholder)
-
-**✅ Created but unpublished (in repo, not linked):**
-- `session1.md` - Full outline + evidence for Session 1
-
-**📝 To be created:**
-- `session2.md` through `session5.md` - Full outlines for remaining sessions
+**Strategy:** Jekyll posts auto-reveal on their scheduled dates
 
 ---
 
-## Weekly Rollout Workflow
+## How It Works
 
-### Week Before Each Session
+**Jekyll's built-in post system:**
+- Posts dated in the future don't appear on site until that date
+- All 5 sessions created now in `_posts/` directory
+- Automatically appear on their scheduled dates
+- No manual navigation updates needed!
 
-**1. Publish that session's detail page:**
-
-Update `_layouts/default.html` navigation to add link:
-
-```html
-<!-- Example for Session 1 reveal (week of March 23) -->
-<nav>
-    <a href="{{ '/' | relative_url }}">🏛️ Home</a>
-    <a href="{{ '/about' | relative_url }}">📜 About</a>
-    <a href="{{ '/sessions' | relative_url }}">📚 Sessions</a>
-    <a href="{{ '/session1' | relative_url }}">📅 Session 1</a>  <!-- NEW -->
-    <a href="{{ '/resources' | relative_url }}">🔍 Resources</a>
-</nav>
+**File naming convention:**
+```
+_posts/YYYY-MM-DD-slug.md
 ```
 
-**2. Update homepage to link new session:**
-
-Add button in Session 1 card:
-```markdown
-### 📅 Session 1: Did Donald Trump Start an Unjustified and Illegal War?
-**Date:** Sunday, March 30, 2026  
-**Time:** 2:00 PM - 3:30 PM  
-**The Oval, OSU Campus**
-
-<a href="/session1" class="button">📋 View Full Outline & Evidence</a>
+**Front matter includes:**
+```yaml
+---
+layout: default
+title: "Session Title"
+date: 2026-MM-DD HH:MM:SS -0400
+categories: sessions
+---
 ```
 
-**3. Commit and push:**
+---
+
+## What's Already Set Up
+
+✅ **All 5 session posts created:**
+- `2026-03-30-session-1-unjustified-war.md` (full outline)
+- `2026-04-06-session-2-corruption.md` (placeholder)
+- `2026-04-13-session-3-epstein.md` (placeholder)
+- `2026-04-20-session-4-police-state.md` (placeholder)
+- `2026-04-27-session-5-monarchy.md` (placeholder)
+
+✅ **Homepage automatically shows:**
+- Upcoming sessions (future dates)
+- Recent sessions (past dates)
+- Links to full outlines when available
+
+✅ **Sessions page:**
+- Archive of all posts
+- Chronological order
+- Links active when dates pass
+
+---
+
+## Reveal Schedule
+
+**Automatic - no action required:**
+- March 30: Session 1 appears (full outline already there)
+- April 6: Session 2 appears (need to flesh out)
+- April 13: Session 3 appears (need to flesh out)
+- April 20: Session 4 appears (need to flesh out)
+- April 27: Session 5 appears (need to flesh out)
+
+---
+
+## What You Need to Do
+
+### Before Launch (This Week)
+1. **Clone and deploy to GitHub:**
+   ```bash
+   cd ~/projects
+   git clone /home/shared_home_for_bots/repos/citizenstevephd.git
+   cd citizenstevephd
+   git remote add github git@github.com:yourusername/citizenstevephd.git
+   git push github main
+   ```
+
+2. **Enable GitHub Pages** in repo settings
+
+3. **Point DNS** citizenstevephd.com → GitHub Pages
+
+4. **Test:** Site goes live with Session 1 already visible (March 30 is past when you deploy)
+
+---
+
+### Before Each Session (Optional - Flesh Out Posts)
+
+**Week before April 6:**
+- Edit `_posts/2026-04-06-session-2-corruption.md`
+- Add full outline with evidence (like Session 1)
+- Commit and push
+
+**Week before April 13:**
+- Edit `_posts/2026-04-13-session-3-epstein.md`
+- Add full outline
+- Commit and push
+
+**And so on...**
+
+**OR:** Leave them as placeholders - they'll still appear on schedule, just with less detail.
+
+---
+
+## Adding More Sessions Later
+
+**It's trivial now!**
+
+Just create a new file in `_posts/`:
+```bash
+# Create new session post
+touch _posts/2026-05-04-session-6-whatever.md
+
+# Edit with outline
+# Commit and push
+```
+
+**Jekyll automatically:**
+- Adds it to sessions archive
+- Shows it on homepage when date arrives
+- Generates proper URL
+
+**No site structure changes needed.**
+
+---
+
+## URL Structure
+
+Posts automatically get clean URLs:
+- `/sessions/2026/03/30/session-1-unjustified-war/`
+- `/sessions/2026/04/06/session-2-corruption/`
+- etc.
+
+---
+
+## Navigation
+
+**Current navigation is simple:**
+```
+🏛️ Home | 📜 About | 📚 Sessions | 🔍 Resources
+```
+
+**That's it. No need to add individual session links.**
+
+Sessions page shows all posts in chronological order.
+
+---
+
+## Benefits of This Approach
+
+✅ **Scalable:** Add sessions anytime, no navigation changes  
+✅ **Automatic:** Posts appear on schedule without manual updates  
+✅ **Flexible:** Can add 6th, 7th, 8th session easily  
+✅ **Clean:** No hardcoded lists to maintain  
+✅ **Standard:** Using Jekyll as designed  
+
+---
+
+## Editing Existing Posts
+
+**To update Session 1 (or any post):**
 
 ```bash
 cd ~/projects/citizenstevephd
-git add .
-git commit -m "Reveal Session X outline and evidence"
-git push origin main
-git push github main  # Deploy to GitHub Pages
+git pull origin main  # Get latest from shared repo
+
+# Edit the post
+nano _posts/2026-03-30-session-1-unjustified-war.md
+
+# Commit and deploy
+git add _posts/
+git commit -m "Update Session 1 outline"
+git push origin main  # To shared repo
+git push github main  # Deploy to site
 ```
 
----
-
-## Rollout Schedule
-
-### Week of March 23, 2026
-**Reveal:** Session 1 outline + evidence  
-**Session date:** Sunday, March 30
-
-### Week of March 30, 2026  
-**Reveal:** Session 2 outline + evidence  
-**Session date:** Sunday, April 6
-
-### Week of April 6, 2026
-**Reveal:** Session 3 outline + evidence  
-**Session date:** Sunday, April 13
-
-### Week of April 13, 2026
-**Reveal:** Session 4 outline + evidence  
-**Session date:** Sunday, April 20
-
-### Week of April 20, 2026
-**Reveal:** Session 5 outline + evidence  
-**Session date:** Sunday, April 27
+**Changes appear immediately on site.**
 
 ---
 
-## Session Page Template
+## Post Front Matter Explained
 
-Each session page should include:
-
-### 1. Header
-- Session number and question
-- Date, time, location
-- Brief overview
-
-### 2. Outline (structured)
-- **Part 1: The Evidence** (30 min)
-  - Key findings with sources
-  - Conservative evidence prioritized
-  
-- **Part 2: The Monarchical Pattern** (15 min)
-  - How this connects to founding principles
-  - George III parallel
-  
-- **Part 3: Discussion & Q&A** (45 min)
-  - Questions for exploration
-  - Constitutional remedies
-
-### 3. Evidence Documents Section
-- Primary sources listed
-- Research documentation
-- Conservative sources highlighted
-
-### 4. Discussion Ground Rules
-- Evidence-based, good faith, respectful
-- Public forum reminder
-
-### 5. Navigation
-- Links to schedule, home, next session
-- Contact email
-- Disclaimer
-
+```yaml
 ---
-
-## Navigation Updates Needed
-
-**Current navigation (all 5 sessions):**
-```html
-<nav>
-    <a href="{{ '/' | relative_url }}">🏛️ Home</a>
-    <a href="{{ '/about' | relative_url }}">📜 About</a>
-    <a href="{{ '/sessions' | relative_url }}">📚 Sessions</a>
-    <a href="{{ '/resources' | relative_url }}">🔍 Resources</a>
-</nav>
+layout: default              # Use site's default layout
+title: "Session Title"       # Appears in browser tab, page header
+date: 2026-03-30 14:00:00 -0400  # Date + time (EST = -0400)
+categories: sessions         # Can filter by category later
+---
 ```
 
-**After revealing each session, add to nav:**
-- Week 1: `<a href="/session1">📅 Session 1</a>`
-- Week 2: `<a href="/session2">💰 Session 2</a>`
-- Week 3: `<a href="/session3">🔍 Session 3</a>`
-- Week 4: `<a href="/session4">🚔 Session 4</a>`
-- Week 5: `<a href="/session5">👑 Session 5</a>`
+**The date controls when post appears:**
+- Future date → Hidden until that date
+- Past/current date → Visible immediately
 
-**Alternative:** Create dropdown menu once multiple sessions revealed:
-```html
-<details>
-    <summary>📚 Sessions</summary>
-    <a href="/session1">📅 Session 1</a>
-    <a href="/session2">💰 Session 2</a>
-    <!-- etc -->
-</details>
+---
+
+## Testing Locally (Optional)
+
+If you want to see future posts before their dates:
+
+```bash
+cd ~/projects/citizenstevephd
+bundle install
+bundle exec jekyll serve --future
+
+# Visit http://localhost:4000
+# All posts visible regardless of date
 ```
 
----
-
-## Files to Create Before Launch
-
-### High Priority (Week of March 23)
-- ✅ `session1.md` (DONE)
-- 📝 `session2.md` - Corruption/enrichment outline
-- 📝 `session3.md` - Epstein network outline
-- 📝 `session4.md` - ICE/police state outline
-- 📝 `session5.md` - Monarchy synthesis outline
-
-### Medium Priority
-- 📝 `resources.md` update with actual resources list
-- 📝 Evidence file hosting strategy (link to GitHub repo? Separate downloads page?)
-
-### Nice to Have
-- 📝 `/evidence/` directory with markdown versions of evidence files
-- 📝 Printable handouts (PDF generation from markdown?)
-- 📝 FAQ page
+**Without `--future` flag:** Jekyll respects dates (like production)
 
 ---
 
-## Evidence Integration Strategy
+## Workflow Summary
 
-**Option 1: Link to GitHub repo**
-- Evidence files already in workspace
-- Link directly to GitHub raw files
-- Pro: Single source of truth
-- Con: Less elegant than integrated site
+**Now (one time):**
+1. Clone repo
+2. Push to GitHub
+3. Enable GitHub Pages
+4. Point DNS
 
-**Option 2: Copy evidence to site**
-- Create `/evidence/` directory
-- Convert evidence .md files to site pages
-- Pro: Everything in one place
-- Con: Duplication, must keep in sync
+**Ongoing (optional):**
+1. Edit `_posts/2026-XX-XX-filename.md` to flesh out
+2. Commit and push
+3. Post auto-appears on its date
 
-**Option 3: Hybrid**
-- Summary on site
-- "Full documentation" links to GitHub
-- Pro: Best of both
-- Con: Maintain two presentations
-
-**Recommendation:** Start with Option 1 (GitHub links), migrate to Option 2 if needed.
-
----
-
-## Post-Session Updates
-
-After each session, consider:
-
-**1. Session recap:**
-- Key questions that emerged
-- Common concerns
-- Attendance/engagement notes
-- Refinements for future sessions
-
-**2. FAQ additions:**
-- Questions asked multiple times
-- Clarifications needed
-- Evidence requests
-
-**3. Evidence updates:**
-- New sources discovered
-- Better conservative sourcing found
-- Corrections/refinements
-
----
-
-## Promotion Strategy (Optional)
-
-**Week before each session:**
-- Social media posts (if you use)
-- Flyers on campus (if allowed/desired)
-- Email to interested parties
-- OSU calendar listings (if public events allowed)
-
-**Keep it simple:**
-- Date, time, location, question
-- Link to citizenstevephd.com
-- "Public education in public forum"
-
----
-
-## Backup Plans
-
-**If weather bad:**
-- Rain: Bring umbrella, continue (you're dedicated!)
-- Extreme weather: Post cancellation/reschedule on homepage
-
-**If challenged by OSU:**
-- Reference legal memo
-- Stand on First Amendment rights
-- Document interaction
-- Continue unless physical barrier
-
-**If low turnout:**
-- Doesn't matter - you're exercising free speech
-- Even one curious person = success
-- Document and improve for next week
-
-**If high turnout:**
-- Bring backup handouts
-- Stay on time (respect 90 min limit)
-- Offer to stay after for individual Q&A
+**That's it!** Much simpler than manual navigation updates.
 
 ---
 
 ## Success Metrics
 
-**Not:**
-- Number of attendees
-- Agreement with conclusions
-- Media coverage
+**Site works if:**
+- Session 1 visible on homepage (date has passed)
+- Sessions 2-5 show as "coming soon" (future dates)
+- Each Sunday, new session appears automatically
+- Archive page shows all sessions chronologically
 
-**But:**
-- Evidence presented clearly
-- Questions engaged honestly
-- Constitutional conversation happening
-- People thinking critically
-
-**The goal:** Invite exploration using founders' own standards, not convert to specific viewpoint.
+**No manual intervention required between now and April 27.**
 
 ---
 
-## Quick Reference: Week Before Session 1
-
-**March 23-29, 2026:**
+## Quick Reference: GitHub Deployment
 
 ```bash
-# 1. Update navigation in default.html
-# Add Session 1 link
-
-# 2. Update index.md
-# Add button to Session 1 in card
-
-# 3. Commit and deploy
-cd ~/projects/citizenstevephd
-git add _layouts/default.html index.md
-git commit -m "Reveal Session 1 outline and evidence"
-git push origin main
+# One-time setup
+cd ~/projects
+git clone /home/shared_home_for_bots/repos/citizenstevephd.git
+cd citizenstevephd
+git remote add github git@github.com:yourusername/citizenstevephd.git
 git push github main
 
-# 4. Verify on citizenstevephd.com
-# Check that Session 1 link appears and works
+# Then enable GitHub Pages in repo settings:
+# Settings → Pages → Source: main branch → Save
 
-# 5. Prepare physical materials
-# Print session1.md outline
-# Prepare any handouts
-# Check costume ready
+# Point DNS:
+# Add CNAME: citizenstevephd.com → yourusername.github.io
+# Or A records to GitHub Pages IPs
+
+# Site live at https://citizenstevephd.com
 ```
 
-**You're good to go!**
+**You're done. Posts will appear on schedule automatically. 🇺🇸**
 
 ---
 
-**Questions about rollout?** This is a living document - update as you learn what works.
+**Questions?** This approach is much cleaner. You can add sessions 6, 7, 8 later without touching site structure.
