@@ -100,16 +100,30 @@ citizenstevephd/
 ├── _config.yml          # Jekyll configuration
 ├── _layouts/
 │   └── default.html     # Main template (patriotic theme)
+├── _posts/              # Session posts (auto-reveal on date)
+│   ├── 2026-03-30-session-1-unjustified-war.md
+│   ├── 2026-04-06-session-2-corruption.md
+│   ├── 2026-04-13-session-3-epstein.md
+│   ├── 2026-04-20-session-4-police-state.md
+│   └── 2026-04-27-session-5-monarchy.md
 ├── assets/
 │   └── css/
 │       └── style.css    # Red/white/blue styling
-├── index.md             # Home page
-├── about.md             # About page
-├── sessions.md          # Sessions schedule
+├── index.md             # Home page (shows upcoming/recent posts)
+├── about.md             # About page with legal framework
+├── sessions.md          # Sessions archive (all posts)
 ├── resources.md         # Resources page
 ├── Gemfile              # Ruby dependencies
+├── LEGAL-MEMO.md        # Legal research documentation
+├── ROLLOUT-PLAN.md      # Deployment workflow
 └── README.md            # This file
 ```
+
+**Posts-based workflow:**
+- All sessions in `_posts/` directory
+- Posts dated in future don't appear until that date
+- No manual updates needed - Jekyll handles scheduling
+- Add more sessions anytime by creating new post files
 
 ## Customization
 
