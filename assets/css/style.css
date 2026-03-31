@@ -1,0 +1,217 @@
+/* Citizen Steve PhD - Patriotic Theme */
+/* American Flag Colors */
+:root {
+    --old-glory-blue: #3C3B6E;
+    --old-glory-red: #B22234;
+    --white: #FFFFFF;
+    --text-dark: #2C2C2C;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', serif;
+    line-height: 1.6;
+    color: var(--text-dark);
+    background-color: var(--white);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header - Blue background */
+header {
+    background-color: var(--old-glory-blue);
+    color: var(--white);
+    padding: 2rem 0;
+    border-bottom: 4px solid var(--old-glory-red);
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    color: var(--white);
+}
+
+.tagline {
+    font-size: 1.1rem;
+    font-style: italic;
+    margin-bottom: 1rem;
+    opacity: 0.9;
+}
+
+/* Navigation */
+nav {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+nav a {
+    color: var(--white);
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    margin-right: 1rem;
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: var(--old-glory-red);
+}
+
+/* Main Content */
+main {
+    padding: 3rem 0;
+    min-height: 60vh;
+}
+
+/* Headings - Blue */
+h1, h2, h3, h4, h5, h6 {
+    color: var(--old-glory-blue);
+    margin: 1.5rem 0 1rem 0;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.5rem; }
+
+/* Links - Red */
+a {
+    color: var(--old-glory-red);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.3s;
+}
+
+a:hover {
+    border-bottom: 1px solid var(--old-glory-red);
+}
+
+/* Paragraphs */
+p {
+    margin-bottom: 1rem;
+}
+
+/* Lists */
+ul, ol {
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+/* Blockquotes */
+blockquote {
+    border-left: 4px solid var(--old-glory-blue);
+    padding-left: 1.5rem;
+    margin: 1.5rem 0;
+    font-style: italic;
+    color: #555;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+}
+
+th {
+    background-color: var(--old-glory-blue);
+    color: var(--white);
+    padding: 0.75rem;
+    text-align: left;
+}
+
+td {
+    padding: 0.75rem;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* Buttons */
+.button {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: var(--old-glory-red);
+    color: var(--white);
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+    border: none;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #8B1A2A;
+    border-bottom: none;
+}
+
+.button-blue {
+    background-color: var(--old-glory-blue);
+}
+
+.button-blue:hover {
+    background-color: #2C2A4E;
+}
+
+/* Cards */
+.card {
+    border: 2px solid var(--old-glory-blue);
+    padding: 1.5rem;
+    margin: 1rem 0;
+    border-radius: 4px;
+    background-color: var(--white);
+}
+
+.card h3 {
+    margin-top: 0;
+}
+
+/* Footer - Blue background */
+footer {
+    background-color: var(--old-glory-blue);
+    color: var(--white);
+    padding: 2rem 0;
+    margin-top: 4rem;
+    border-top: 4px solid var(--old-glory-red);
+}
+
+footer a {
+    color: var(--white);
+    border-bottom-color: var(--white);
+}
+
+footer p {
+    margin-bottom: 0.5rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+    
+    nav a {
+        display: block;
+        margin-bottom: 0.5rem;
+    }
+    
+    h1 { font-size: 2rem; }
+    h2 { font-size: 1.5rem; }
+}
