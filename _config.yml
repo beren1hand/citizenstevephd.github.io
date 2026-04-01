@@ -33,5 +33,4 @@ exclude:
   - REVISION.md
   - ROLLOUT-PLAN.md
   - README.md
-  - "Header.jpg"
-  - "Header With Text.jpeg"
+  # (images are now stored under assets/images/)
