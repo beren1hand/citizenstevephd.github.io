@@ -11,59 +11,49 @@ categories: sessions
 
 ---
 
-## 🇺🇸 This is not only about Trump
+## ⚖️ Public office is a public trust
 
-The preferences of **average Americans** have a <span class="text-red-bold">near-zero effect</span> on which policies actually get adopted. **Economic elites and organized business groups drive policy outcomes** — this is the empirical finding of the landmark Gilens and Page study of nearly **1,800 policy issues**. When the public wants something the wealthy oppose, **it almost never happens.**
+- The chain of command in a democracy runs: leaders → the law → **the people**
+- It is the citizens' responsibility to hold leaders accountable through **elections, transparency**, and demands for **enforcement of ethics rules**
+- **Structural corruption** occurs when private wealth gets systematically wired into the machinery of the state
+  - Public preference and policy outcomes <span class="text-red-bold">stop matching</span>
 
-<span class="text-red-bold">Citizens United made it worse.</span> After the 2010 Supreme Court decision removed limits on independent expenditures, **mega-donor spending tripled.** Research shows donors don't just pick candidates who agree with them — they **actively shape how legislators vote.** And donors penalize moderates **five times more heavily** than extremists, structurally pushing politics toward polarization.
+## 💰 Corruption breaks everything the founders built
 
-Before you ever cast a ballot, the **donor class has already decided who gets to run.** This is the "wealth primary." Trump-specific corruption sits inside a system **already built to serve concentrated wealth.**
+- **Your wallet:** average families pay more for **gas, healthcare, and food** when iron triangles of corrupt officials and business leaders manipulate the market
+- **Your safety:** when leaders are beholden to foreign governments and private interests, policy serves <span class="text-red-bold">their profit, not your security</span>
+  - Decisions about Russia, Turkey, Qatar, and China get filtered through **who's paying whom**
+- **Your government:** corruption rewards **incompetence and cronyism** while forcing honest public servants out — the people who actually serve the public <span class="text-red-bold">get pushed aside</span>
+- The founders designed a system to **protect and serve the populace** — corruption doesn't just bend that system, it <span class="text-red-bold">inverts it</span>
 
-## 💸 The presidency as a profit center
+## 🏛️ America is a functional oligarchy
 
-<span class="text-red-bold">Taxpayer money flows to Trump properties.</span> The Secret Service has spent roughly **$100,000** at Trump resorts. Cumulative political and taxpayer spending at Trump-branded properties has reached at least <span class="text-red-bold">$16.1 million</span>. The Trump Organization has charged the government rates as high as **$17,000 per month** for cottages, with added charges for furniture removal.
+- **Gilens & Page** studied **1,800 policy issues** — average citizens have a <span class="text-red-bold">"near-zero, non-significant" impact</span> on policy
+- The **"wealth primary"** — viable candidates are filtered through a private contest among the **top 0.1% of donors** before the public ever votes
+- Legislators' voting behavior is **dramatically more responsive** to the top 1% of donors
+  - Alignment with the poor has <span class="text-red-bold">decreased</span>
 
-**The $10 billion IRS lawsuit.** In January 2026, Trump sued his own Treasury Department over a tax-record leak from his first term. The leaker was already caught and sentenced to five years. Trump is simultaneously **the plaintiff demanding $10 billion** and **the boss of the officials who can settle the case.** Senators Wyden and Warren warn this could become a <span class="text-red-bold">taxpayer-funded windfall authorized by his own appointees</span>.
+## 🔧 Structural mechanisms of influence
 
-**A pattern of coercive settlements:**
+- **The revolving door** — regulators enter the sectors they once oversaw; by late 2025, over **755 former congressional employees** had registered as lobbyists
+- **The STOCK Act** — lawmakers trade stocks in industries they regulate, their trades **outperform the S&P 500**, and the penalty for non-disclosure is <span class="text-red-bold">$200</span>
+- **Dark money** — expenditures by organizations that conceal donor identities exceeded <span class="text-red-bold">$1 billion</span> in recent presidential cycles
 
-| Entity | Amount | Context |
-|--------|--------|---------|
-| Meta | **$25 million** | Settlement → account reinstatement |
-| ABC News | **$15 million** | Defamation settlement → avoided trial with sitting president |
-| Crypto.com | **$11 million** | Political donation while under SEC investigation |
+## 🚨 The Trump administration: institutionalized enrichment
 
-<span class="text-red-bold">These aren't coincidences. They're a business model.</span> 🚨
+- The presidency is being used as a platform for **real estate licensing, personal digital assets, and strategic litigation**
+- Taxpayer and political spending at Trump-branded properties: at least <span class="text-red-bold">$16.1 million</span>
+  - Secret Service alone spent **$100,000** in the first months of the second term
+- **Elon Musk** and his "DOGE" team — unprecedented power to reshape the government while <span class="text-red-bold">avoiding conflict-of-interest safeguards</span>
+- The **$TRUMP meme coin** and **World Liberty Financial** created pay-to-play opportunities
+  - Crypto billionaires **under investigation** made massive investments in these ventures
+  - <span class="text-red-bold">Their investigations disappeared</span>
 
-## 🪙 Crypto and pay-to-play
+## 📜 The law and the path forward
 
-The **$TRUMP meme coin** launched three days before the 2025 inauguration, netting over <span class="text-red-bold">$350 million in profits</span> for backers. It conveys **no voting rights** and holds **no intrinsic value** — but it has been purchased by individuals and foreign entities **seeking to influence U.S. policy.**
-
-Then came the regulatory plea deals:
-
-- **Crypto.com:** Under SEC investigation → donated **$10M+** to Trump PACs → <span class="text-red-bold">investigation dismissed</span> → entered **$1B partnership** with Trump Media.
-- **Justin Sun:** Sued for fraud by the SEC → invested **$30M** in World Liberty Financial → <span class="text-red-bold">prosecutors asked a judge to pause the investigation</span>.
-- **Binance CEO:** <span class="text-red-bold">Pardoned by Trump</span> after Binance-related entities invested **$2B** in World Liberty Financial.
-
-This is a **new form of corruption:** <span class="text-red-bold">legal investigations traded for investments in the president's personal ventures.</span>
-
-## 🌍 Foreign money and the Constitution
-
-The Trump family's projected income from overseas projects is estimated to exceed <span class="text-red-bold">$400 million</span> during the second term. DAMAC's owner announced a **$20 billion** U.S. investment after meeting Trump at Mar-a-Lago. Trump admitted **the deal wouldn't have happened without his election win.**
-
-The <span class="text-blue-bold">Foreign Emoluments Clause</span> exists for exactly this reason — the Constitution **prohibits** the president from receiving payments from foreign governments without congressional consent. 📜 A House Oversight Committee report confirmed China alone paid <span class="text-red-bold">$5.5 million</span> to Trump businesses during one two-year period.
-
-When the president's personal wealth depends on the goodwill of foreign state-controlled entities, that's a <span class="text-red-bold">national security vulnerability that adversaries can exploit.</span> 🚨
-
-## 🏛️ Congress is corrupted too
-
-The <span class="text-blue-bold">STOCK Act</span> imposes a **$200 penalty** for disclosure violations. **No member of Congress has ever been successfully prosecuted** under it. Meanwhile, ETFs that track congressional trades **outperform the S&P 500**, and over **50 members** made **2,000+ trades** in tariff-affected companies within 55 days of tariff announcements.
-
-Research shows that when citizens learn about congressional trading, <span class="text-red-bold">trust collapses</span>. People see laws as self-serving and become **less willing to comply with them.** The legitimacy of the entire system erodes.
-
-## 🦅 What would the founders say?
-
-They wrote the Emoluments Clauses because they understood that **when office pays, accountability breaks down.** The presidency was designed as a <span class="text-blue-bold">public trust</span>, not a business asset. The question is whether the **bright lines between service and profit** can be restored — or whether they've been <span class="text-red-bold">permanently erased</span>.
+- The <span class="text-blue-bold">Foreign Emoluments Clause</span> — the Constitution prohibits federal officials from receiving gifts or money from foreign states without congressional approval
+- The **Restore Trust in Congress Act** — bipartisan legislation to replace failed transparency requirements with a <span class="text-red-bold">total ban on congressional stock trading</span>
+- **Campaign finance overhaul** — overturn Super PAC legality, experiment with small-donor public financing like **democracy vouchers**
 
 ---
 
@@ -71,16 +61,13 @@ They wrote the Emoluments Clauses because they understood that **when office pay
 
 - [Sunlight Foundation — Gilens & Page overview](https://sunlightfoundation.com/2014/04/17/american-oligarchy-how-the-preferences-of-elites-shape-policy-outcomes/)
 - [Mega-donors and representation (AEA, 2026)](https://www.aeaweb.org/conference/2026/preliminary/paper/SfhG4kh4)
+- [Center for American Progress — cost of corruption to families](https://www.americanprogress.org/)
 - [Brennan Center — conflicts and self-dealing](https://www.brennancenter.org/our-work/research-reports/uncovering-conflicts-interest-and-self-dealing-executive-branch)
-- [AP — Trump Media / crypto conflicts](https://www.ap.org/news-highlights/spotlights/2025/how-a-trump-media-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest/)
 - [CREW — Secret Service spending at Trump properties](https://www.citizensforethics.org/reports-investigations/crew-investigations/secret-service-has-spent-nearly-100k-at-trump-properties/)
 - [ProPublica — taxpayer spending at Trump properties](https://www.propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million)
-- [Senate Finance — Wyden/Warren on $10B lawsuit](https://www.finance.senate.gov/ranking-members-news/wyden-warren-demand-answers-as-trump-attempts-to-steal-10b-from-taxpayers-in-irs-lawsuit)
 - [U.S. Constitution — Foreign Emoluments, Art. I, Sec. 9](https://constitution.congress.gov/browse/article-1/section-9/)
 - [Brennan Center — congressional stock trading](https://www.brennancenter.org/our-work/research-reports/congressional-stock-trading-explained)
-- [PNAS — stock trading knowledge and legitimacy](https://www.pnas.org/doi/10.1073/pnas.2501822122)
-- [Defense One — Trump national security conflicts](https://www.defenseone.com/threats/2025/01/tracking-trumps-national-security-conflicts-interest/402329/)
-- [El País — Persian Gulf business, Trump family](https://english.elpais.com/international/2026-03-16/the-persian-gulf-a-booming-business-for-the-trump-family.html)
+- [HKS PolicyCast — Oligarchy in the Open](https://www.hks.harvard.edu/more/policycast)
 
 ---
 

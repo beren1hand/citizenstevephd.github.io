@@ -37,7 +37,6 @@
 ---
 
 #### Sources
-*   *The Institutionalization of Influence: Structural Corruption and the Transition to Functional Oligarchy in the United States* (Deep Research Report, 2026)
 *   *Confronting the Cost of Trump's Corruption to American Families* (Center for American Progress)
 *   *Mega-Donors and Representation of the Wealthy in the Wake of Citizens United* (Babenko et al., 2025)
 *   *Oligarchy in the Open* (HKS PolicyCast, 2025)
