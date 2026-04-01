@@ -6,7 +6,7 @@ show_hero: true
 
 <h2 class="home-title text-red">🇺🇸 Revolution. American-Style!</h2>
 
-<p class="home-mantra text-blue">We get loud. We get in the way. We get out the vote! ✊</p>
+<p class="home-mantra text-blue">We get loud. We get in the way. We get out the vote! ✊🏿✊🏾✊🏽✊🏼✊🏻</p>
 
 - The founders fought a violent revolution **so we'd never have to fight one again** — they gave us a Constitution, the rule of law, and the tools for **peaceful transitions of power** 📜
 - Those tools require <span class="text-red-bold">free and fair elections</span> with **every eligible citizen able to vote** 🗳️ — voter restrictions suppress turnout and harm democracy, while evidence of substantial voter fraud is essentially <span class="text-red-bold">nonexistent</span>
