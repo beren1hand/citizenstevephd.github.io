@@ -1,13 +1,13 @@
 ---
 layout: default
 title: "Session 2: Is Donald Trump Corrupting the Presidency to Enrich Himself?"
-date: 2026-04-01 13:00:00 -0400
+date: 2026-04-01 00:00:00 -0400
 categories: sessions
 ---
 
 # Is Donald Trump Corrupting the Presidency to Enrich Himself?
 
-**Session 2 — Wednesday, April 1, 2026 — The Oval, Ohio State University**
+**Session 2 — Wednesday, April 1, 2026 — The Oval at THE Ohio State University**
 
 ---
 

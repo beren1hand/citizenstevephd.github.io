@@ -6,35 +6,24 @@ show_hero: true
 
 ## Sessions
 
+{% assign sessions = site.posts | sort: "date" %}
 <ul class="session-list">
+{% for post in sessions %}
+  {% assign session_num = forloop.index %}
+  {% assign post_ts = post.date | date: "%s" | plus: 0 %}
+  {% assign now_ts = site.time | date: "%s" | plus: 0 %}
+  {% assign title = post.title | remove: "Session 1: " | remove: "Session 2: " | remove: "Session 3: " | remove: "Session 4: " | remove: "Session 5: " %}
   <li>
-    <span class="session-number">1.</span>
-    <a href="{{ site.posts | where: 'title', 'Session 1: Has Donald Trump Started an Illegal and Immoral War in Iran?' | map: 'url' | first | default: '/sessions/2026/03/25/session-1-unjustified-war/' }}">Has Donald Trump Started an Illegal and Immoral War in Iran?</a>
-    <span class="session-date">March 25, 2026</span>
+    <span class="session-number">{{ session_num }}.</span>
+    {% if post_ts <= now_ts %}
+      <a href="{{ post.url | relative_url }}">{{ title }}</a>
+    {% else %}
+      <span class="coming-soon">{{ title }}</span>
+      <span class="coming-soon-badge">Coming Soon</span>
+    {% endif %}
+    <span class="session-date">{{ post.date | date: "%B %-d, %Y" }}</span>
   </li>
-  <li>
-    <span class="session-number">2.</span>
-    <a href="{{ site.posts | where: 'title', 'Session 2: Is Donald Trump Corrupting the Presidency to Enrich Himself?' | map: 'url' | first | default: '/sessions/2026/04/01/session-2-corruption/' }}">Is Donald Trump Corrupting the Presidency to Enrich Himself?</a>
-    <span class="session-date">April 1, 2026</span>
-  </li>
-  <li>
-    <span class="session-number">3.</span>
-    <span class="coming-soon">Is Donald Trump Covering Up for the Criminal Epstein Network?</span>
-    <span class="coming-soon-badge">Coming Soon</span>
-    <span class="session-date">April 8, 2026</span>
-  </li>
-  <li>
-    <span class="session-number">4.</span>
-    <span class="coming-soon">Is Donald Trump Creating a Secret Racist Police Force?</span>
-    <span class="coming-soon-badge">Coming Soon</span>
-    <span class="session-date">April 15, 2026</span>
-  </li>
-  <li>
-    <span class="session-number">5.</span>
-    <span class="coming-soon">Is Donald Trump Trying to Become a King?</span>
-    <span class="coming-soon-badge">Coming Soon</span>
-    <span class="session-date">April 22, 2026</span>
-  </li>
+{% endfor %}
 </ul>
 
 ---
@@ -49,7 +38,7 @@ show_hero: true
 
 **The goal:** To examine whether current governance patterns match the monarchical behaviors America's founders rejected—using their own standards.
 
-**Location:** The Oval, Ohio State University (traditional public forum)
+**Location:** The Oval at THE Ohio State University (traditional public forum)
 **Time:** Wednesdays, 1:00–2:00 PM
 **Contact:** [steve@citizenstevephd.com](mailto:steve@citizenstevephd.com)
 
