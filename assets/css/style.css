@@ -175,6 +175,19 @@ p {
     margin-bottom: 1rem;
 }
 
+/* ── Homepage Emphasis ── */
+
+.home-title {
+    font-size: 2.2rem;
+}
+
+.home-mantra {
+    font-size: 1.4rem;
+    font-weight: 800;
+    line-height: 1.4;
+    margin-bottom: 1rem;
+}
+
 strong {
     font-weight: 700;
 }
@@ -293,8 +306,9 @@ tr:nth-child(even) {
 }
 
 .session-list a {
-    font-weight: 600;
-    font-size: 1.05rem;
+    font-weight: 800;
+    font-size: 1.35rem;
+    line-height: 1.35;
 }
 
 .session-date {
@@ -306,7 +320,9 @@ tr:nth-child(even) {
 
 .coming-soon {
     color: var(--text-light);
-    font-size: 1.05rem;
+    font-size: 1.35rem;
+    font-weight: 800;
+    line-height: 1.35;
 }
 
 .coming-soon-badge {

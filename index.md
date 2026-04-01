@@ -4,9 +4,9 @@ title: Home
 show_hero: true
 ---
 
-<h2 class="text-red" style="font-size: 2.2rem;">🇺🇸 Revolution. American-Style!</h2>
+<h2 class="home-title text-red">🇺🇸 Revolution. American-Style!</h2>
 
-<p class="text-blue" style="font-size: 1.4rem; font-weight: 800; line-height: 1.4;">We get loud. We get in the way. We get out the vote! ✊</p>
+<p class="home-mantra text-blue">We get loud. We get in the way. We get out the vote! ✊</p>
 
 - The founders fought a violent revolution **so we'd never have to fight one again** — they gave us a Constitution, the rule of law, and the tools for **peaceful transitions of power** 📜
 - Those tools require <span class="text-red-bold">free and fair elections</span> with **every eligible citizen able to vote** 🗳️ — voter restrictions suppress turnout and harm democracy, while evidence of substantial voter fraud is essentially <span class="text-red-bold">nonexistent</span>
@@ -21,7 +21,7 @@ show_hero: true
 
 ---
 
-## 📣 Sessions
+<h2 class="home-title">📣 Sessions</h2>
 
 {% assign sessions = site.posts | sort: "date" %}
 <ul class="session-list">
@@ -45,7 +45,7 @@ show_hero: true
 
 <div class="about-section" markdown="1">
 
-## 🦅 About Citizen Steve
+<h2 class="home-title">🦅 About Citizen Steve</h2>
 
 **Citizen Steve** provides **evidence-based education** examining critical questions about American democracy and constitutional governance. Five weekly sessions, each driven by a **single question**, using PhD-level rigor in accessible presentation.
 
