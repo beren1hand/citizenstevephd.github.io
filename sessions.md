@@ -8,8 +8,8 @@ title: All Sessions
 ## All Sessions
 
 **Location:** The Oval, Ohio State University  
-**Time:** Sundays, 2:00 PM - 3:30 PM  
-**Format:** Evidence presentation, open discussion, Q&A
+**Time:** Wednesdays, 1:00 PM - 2:00 PM  
+**Format:** Opening address (about 15–20 minutes), open discussion and Q&A
 
 Each session examines one critical question about American democracy and constitutional governance using evidence-based analysis and founding principles.
 
@@ -21,7 +21,7 @@ Each session examines one critical question about American democracy and constit
 ## {{ post.title }}
 
 **{{ post.date | date: "%A, %B %d, %Y" }}**  
-**2:00 PM - 3:30 PM, The Oval**
+**1:00 PM - 2:00 PM, The Oval**
 
 {{ post.excerpt }}
 

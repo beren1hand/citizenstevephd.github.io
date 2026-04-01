@@ -32,11 +32,13 @@ categories: sessions
 ## What's Already Set Up
 
 ✅ **All 5 session posts created:**
-- `2026-03-30-session-1-unjustified-war.md` (full outline)
-- `2026-04-06-session-2-corruption.md` (placeholder)
-- `2026-04-13-session-3-epstein.md` (placeholder)
-- `2026-04-20-session-4-police-state.md` (placeholder)
-- `2026-04-27-session-5-monarchy.md` (placeholder)
+- `2026-03-25-session-1-unjustified-war.md` (war / Oval Hours session 1)
+- `2026-04-01-session-2-corruption.md` (corruption session)
+- `2026-04-08-session-3-epstein.md`
+- `2026-04-15-session-4-police-state.md`
+- `2026-04-22-session-5-monarchy.md`
+
+**Schedule:** Wednesdays 1:00–2:00 PM (matches `notes/CSOH - Proposal.md`).
 
 ✅ **Homepage automatically shows:**
 - Upcoming sessions (future dates)
@@ -53,11 +55,11 @@ categories: sessions
 ## Reveal Schedule
 
 **Automatic - no action required:**
-- March 30: Session 1 appears (full outline already there)
-- April 6: Session 2 appears (need to flesh out)
-- April 13: Session 3 appears (need to flesh out)
-- April 20: Session 4 appears (need to flesh out)
-- April 27: Session 5 appears (need to flesh out)
+- March 25: Session 1 appears
+- April 1: Session 2 appears
+- April 8: Session 3 appears
+- April 15: Session 4 appears
+- April 22: Session 5 appears
 
 ---
 
@@ -77,19 +79,19 @@ categories: sessions
 
 3. **Point DNS** citizenstevephd.com → GitHub Pages
 
-4. **Test:** Site goes live with Session 1 already visible (March 30 is past when you deploy)
+4. **Test:** Site goes live with Session 1 already visible if deploy is after March 25
 
 ---
 
 ### Before Each Session (Optional - Flesh Out Posts)
 
-**Week before April 6:**
-- Edit `_posts/2026-04-06-session-2-corruption.md`
-- Add full outline with evidence (like Session 1)
+**Week before April 1:**
+- Edit `_posts/2026-04-01-session-2-corruption.md`
+- Refine outline and sources as needed
 - Commit and push
 
-**Week before April 13:**
-- Edit `_posts/2026-04-13-session-3-epstein.md`
+**Week before April 8:**
+- Edit `_posts/2026-04-08-session-3-epstein.md`
 - Add full outline
 - Commit and push
 
@@ -124,7 +126,7 @@ touch _posts/2026-05-04-session-6-whatever.md
 ## URL Structure
 
 Posts automatically get clean URLs:
-- `/sessions/2026/03/30/session-1-unjustified-war/`
+- `/sessions/2026/03/25/session-1-unjustified-war/`
 - `/sessions/2026/04/06/session-2-corruption/`
 - etc.
 
@@ -162,7 +164,7 @@ cd ~/projects/citizenstevephd
 git pull origin main  # Get latest from shared repo
 
 # Edit the post
-nano _posts/2026-03-30-session-1-unjustified-war.md
+nano _posts/2026-03-25-session-1-unjustified-war.md
 
 # Commit and deploy
 git add _posts/
@@ -181,7 +183,7 @@ git push github main  # Deploy to site
 ---
 layout: default              # Use site's default layout
 title: "Session Title"       # Appears in browser tab, page header
-date: 2026-03-30 14:00:00 -0400  # Date + time (EST = -0400)
+date: 2026-03-25 13:00:00 -0400  # Wednesday session (America/New_York)
 categories: sessions         # Can filter by category later
 ---
 ```
@@ -231,7 +233,7 @@ bundle exec jekyll serve --future
 **Site works if:**
 - Session 1 visible on homepage (date has passed)
 - Sessions 2-5 show as "coming soon" (future dates)
-- Each Sunday, new session appears automatically
+- Each Wednesday (per post date), the next session appears automatically
 - Archive page shows all sessions chronologically
 
 **No manual intervention required between now and April 27.**

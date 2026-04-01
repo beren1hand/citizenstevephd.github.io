@@ -1,13 +1,13 @@
 ---
 layout: default
 title: "Session 3: Is Donald Trump Protecting Jeffrey Epstein's Network?"
-date: 2026-04-13 14:00:00 -0400
+date: 2026-04-08 13:00:00 -0400
 categories: sessions
 ---
 
 # 🔍 Session 3: Is Donald Trump Protecting Jeffrey Epstein's Network?
 
-**Sunday, April 13, 2026 | 2:00 PM - 3:30 PM | The Oval, OSU**
+**Wednesday, April 8, 2026 | 1:00 PM - 2:00 PM | The Oval, OSU**
 
 ---
 

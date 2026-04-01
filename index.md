@@ -10,7 +10,7 @@ title: Home
 **Citizen Steve's Oval Hours:** Public education on critical questions about American democracy and constitutional governance.
 
 **Location:** The Oval, Ohio State University (traditional public forum)  
-**Time:** Sundays, 2:00 PM - 3:30 PM  
+**Time:** Wednesdays, 1:00 PM - 2:00 PM  
 **Approach:** PhD-level rigor, accessible presentation, all evidence sourced
 
 ---
@@ -28,7 +28,7 @@ title: Home
 
 #### {{ post.title }}
 **{{ post.date | date: "%A, %B %d, %Y" }}**  
-**2:00 PM - 3:30 PM, The Oval**
+**1:00 PM - 2:00 PM, The Oval**
 
 {% if post.date <= site.time %}
 <a href="{{ post.url | relative_url }}" class="button">📋 View Full Outline</a>

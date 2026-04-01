@@ -1,0 +1,42 @@
+# Jekyll build output
+_site/
+
+# Jekyll caches
+.jekyll-cache/
+.sass-cache/
+
+# Bundler — local gem installs (keep Gemfile + Gemfile.lock in repo)
+vendor/bundle/
+.bundle/
+
+# Ruby
+*.gem
+
+# Node (if you add tooling later)
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor / IDE
+*.swp
+*.swo
+*~
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temp
+*.log
+tmp/
+temp/

@@ -101,11 +101,11 @@ citizenstevephd/
 ├── _layouts/
 │   └── default.html     # Main template (patriotic theme)
 ├── _posts/              # Session posts (auto-reveal on date)
-│   ├── 2026-03-30-session-1-unjustified-war.md
-│   ├── 2026-04-06-session-2-corruption.md
-│   ├── 2026-04-13-session-3-epstein.md
-│   ├── 2026-04-20-session-4-police-state.md
-│   └── 2026-04-27-session-5-monarchy.md
+│   ├── 2026-03-25-session-1-unjustified-war.md
+│   ├── 2026-04-01-session-2-corruption.md
+│   ├── 2026-04-08-session-3-epstein.md
+│   ├── 2026-04-15-session-4-police-state.md
+│   └── 2026-04-22-session-5-monarchy.md
 ├── assets/
 │   └── css/
 │       └── style.css    # Red/white/blue styling

@@ -1,13 +1,13 @@
 ---
 layout: default
 title: "Session 5: Is Donald Trump Trying to Become King?"
-date: 2026-04-27 14:00:00 -0400
+date: 2026-04-22 13:00:00 -0400
 categories: sessions
 ---
 
 # 👑 Session 5: Is Donald Trump Trying to Become King?
 
-**Sunday, April 27, 2026 | 2:00 PM - 3:30 PM | The Oval, OSU**
+**Wednesday, April 22, 2026 | 1:00 PM - 2:00 PM | The Oval, OSU**
 
 ---
 
@@ -147,15 +147,14 @@ categories: sessions
 #### C. Evidence from Previous Sessions (10 min)
 
 **Session 1 (War):**
-- Started war without Congress (monarchical)
-- NCTC Director resigned: "No imminent threat"
-- Personal grievances drive policy (Soleimani)
+- Preventive strike vs. defense-only, last resort, and congressional authorization
+- Senior resignation citing no imminent threat (Kent)
+- Diplomatic timing and regional history (e.g. Oman remarks, Iran 1953/1979/2025)
 
 **Session 2 (Corruption):**
-- $800M+ memecoin while president
-- Kushner family $640M + Saudi $2B
-- CREW: 3,700+ first-term conflicts
-- Emoluments clauses violated systematically
+- Structural “wealth primary,” dark money, revolving door, congressional trading
+- Presidency as profit center: properties, lawsuits against Treasury/IRS, crypto settlements
+- Foreign licensing and emoluments risk alongside personal digital assets
 
 **Session 3 (Epstein):**
 - 200K pages redacted, delays
