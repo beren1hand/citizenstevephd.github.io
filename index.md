@@ -2,6 +2,7 @@
 layout: default
 title: Home
 show_hero: true
+description: "Revolution. American-Style!"
 ---
 
 <h2 class="home-title text-red">🇺🇸 Revolution. American-Style!</h2>
