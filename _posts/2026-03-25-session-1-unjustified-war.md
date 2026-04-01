@@ -5,109 +5,71 @@ date: 2026-03-25 13:00:00 -0400
 categories: sessions
 ---
 
-# Session 1: Has Donald Trump Started an Illegal and Immoral War in Iran?
+# Has Donald Trump Started an Illegal and Immoral War in Iran?
 
-**Wednesday, March 25, 2026 | 1:00 PM - 2:00 PM | The Oval, OSU**
+**Session 1 — Wednesday, March 25, 2026 — The Oval, Ohio State University**
 
 ---
 
-## Outline
+## Supporting the troops means holding leaders accountable
 
-*This session follows the opening outline in [War Notes](/notes/CSOH%20-%20War%20Notes.md) (internal working notes).*
+The chain of command runs: lower ranks → higher ranks → the President → **the people**. It is our job to hold the president accountable through peaceful protest, elections, and where appropriate, demands for impeachment and prosecution. Protesting an unjust war is not opposing the troops. Failing to speak is failing the troops.
 
-### Opening: Frame the question (≈5 min)
+## Killing is terrible
 
-- Illegal and immoral are different tests; both matter for citizens and for the troops.
-- Plan: clarify moral standards for war, then U.S. and international law, then the Iran case—including history, not only headlines.
+Every death deprives a person of all future goods in this life—even if you believe in an afterlife or reincarnation, we are still taking away everything this life offers. War deprives the rest of us of each victim's distinctive contributions: their relationships, their work, their culture.
 
-### Part 1: Supporting the troops and the chain of command (≈10 min)
+## War is rarely justified
 
-- **Support the troops** includes holding leaders accountable when the cause is unjust.
-- **Chain of command:** lower ranks → higher ranks → the President → **the people** (elections, impeachment, protest).
-- Protesting an unjust war is not opposing service members; failing to speak can fail those sent to fight.
+War means widespread killing, the destruction of cultural and communal goods built over generations, and massive opportunity costs. Modern American wars are especially costly—resources that could save lives, improve education, and build communities are spent on destruction instead.
 
-### Part 2: Why war is a high bar—morally (≈15 min)
+## Just cause, just means, just reconciliation
 
-- **Killing** deprives people of all future goods in *this* life (even if one holds afterlife or rebirth views).
-- War deprives the rest of us of each victim’s distinctive contributions—relationships, work, culture.
-- **War is rarely justified:** mass killing, destruction of labor and cultural goods, **opportunity costs** (resources that could save lives, educate, build).
-- **Just cause, just means, just reconciliation**
-  - Necessity and proportionality.
-  - **Defense** as the core justification; **preemption** only in extreme, verifiable cases (danger of inflated threats).
-  - **Preventive** war (“strike before they might someday threaten”) justifies far too much—reject as a general rule.
-  - Protect the defenseless; aim at **restoration and reconciliation**.
-  - **Assassination** risks power vacuums and can undermine surrender and peace—worth weighing carefully.
+- **Necessity and proportionality** — force must be the last resort, and the response must fit the threat.
+- **Defense only** — preemption is acceptable only in extreme, verifiable cases (imminent WMD threats). The danger of inflating threats is real.
+- **Preventive war is never justified** — striking before someone "might someday" become a threat would justify war in far too many cases.
+- **Protect the defenseless** and aim at restoration and reconciliation.
+- **Avoid assassinations** — they create power vacuums, leave no one to endorse surrender, and make peace harder.
 
-### Part 3: Recent precedent—Iraq 2003–2011 (≈8 min)
+## The Iraq precedent (2003–2011)
 
-- Stated reasons: WMD; none found → intelligence failure or deception.
-- Scale of death: Iraqi military/combatants ~60–100k; civilians ~130–200k; U.S. ~4,431 (orders of magnitude for discussion).
-- Contributed to instability and the rise of ISIS—long tail of harm.
+The stated justification was weapons of mass destruction. None were found—either an intelligence failure or a lie.
 
-### Part 4: Iran—history and the current crisis (≈15 min)
+**The human cost:**
+- Iraqi military and combatants: 60,000–100,000 killed
+- Iraqi civilians: 130,000–200,000 killed
+- U.S. service members: 4,431 killed
 
-- **1953:** CIA-backed coup; elected leadership removed; oil and authoritarian blowback.
-- **1979:** Revolution against the U.S.-backed Shah; later state support for terrorism (complex legacy).
-- **2025:** Preventive strikes on nuclear facilities.
-- **Now (for discussion):**
-  - Oman’s foreign minister reportedly said a **“breakthrough is in reach”** the day before bombing—**last resort** and timing questions.
-  - Impact on **domestic protest and reform** inside Iran vs. entrenching authoritarians.
-  - **Joe Kent** resigned, citing **no imminent threat** (and, in public reporting, concerns about pressure)—compare to usual pattern when national security leadership stays or goes.
-  - **U.S. demands** in debate: e.g. zero enrichment vs. legitimate civilian/medical uses; **unconditional surrender** framing and historical parallels (e.g. WWII endgame and nuclear use).
+The war contributed to the rise of ISIS. The long tail of harm continues.
 
-### Part 5: Law and legitimacy—connecting to the Constitution (≈10 min)
+## Iran: history matters
 
-- **Congress** declares war; **War Powers Resolution**; **UN Charter** self-defense framework—tie moral “defense only” to legal baselines.
-- If expert assessments say **no imminent threat** and diplomacy was active, do **just cause**, **last resort**, and **legitimate authority** still hold?
+- **1953:** The CIA backed a coup that removed Iran's democratically elected leader—in part because he nationalized the oil supply—and replaced him with an authoritarian more friendly to U.S. oil interests.
+- **1979:** The Islamic Revolution overthrew the U.S.-backed Shah, eventually leading to state support for terrorism.
+- **2025:** The U.S. launched preventive strikes on Iranian nuclear facilities.
 
-### Part 6: Discussion (remaining time)
+## What's happening now
 
-- Which standards do you accept? Where would you draw the line on preemption?
-- What should Congress and citizens do when frameworks conflict with policy?
+- **The day before the bombing**, Oman's foreign minister said a diplomatic breakthrough was within reach. Was this really a last resort?
+- The strikes **set back local protest and reform efforts** inside Iran, entrenching the authoritarians we claim to oppose.
+- **Joe Kent**, Director of National Counterintelligence, **resigned**—citing no imminent threat.
+- **U.S. demands are unreasonable:** zero enrichment ignores legitimate uses in energy and medicine. Demands for unconditional surrender echo the logic that led to Hiroshima and Nagasaki.
+
+## The law is clear
+
+**Congress** declares war. The **War Powers Resolution** sets limits. The **UN Charter** restricts the use of force to self-defense. If expert assessments say there was no imminent threat and diplomacy was active, do just cause, last resort, and legitimate authority still hold?
 
 ---
 
 ## Sources
 
-### Just war and ethics
-
 - [Stanford Encyclopedia of Philosophy: War](https://plato.stanford.edu/entries/war/)
-- [Internet Encyclopedia of Philosophy: Just War](https://iep.utm.edu/justwar/)
-- Michael Walzer, *Just and Unjust Wars*
-
-### U.S. Constitution and war powers
-
-- [Article I, Section 8](https://constitution.congress.gov/browse/article-1/section-8/)
+- [Internet Encyclopedia of Philosophy: Just War Theory](https://iep.utm.edu/justwar/)
+- [U.S. Constitution, Article I, Section 8](https://constitution.congress.gov/browse/article-1/section-8/)
 - [War Powers Resolution (50 U.S.C. § 1541)](https://www.law.cornell.edu/uscode/text/50/chapter-33)
-
-### International law
-
-- [UN Charter — Chapter VII, Article 51](https://www.un.org/en/about-us/un-charter/chapter-7)
-
-### Iran context and officials
-
-- Coverage of **Joe Kent** resignation (e.g. [Fortune, March 2026](https://fortune.com/2026/03/17/who-is-joe-kent-green-beret-maga-loyalist-former-political-candidate-who-quit-over-iran/))
-- [DNI: NCTC mission and leadership](https://www.dni.gov/index.php/nctc-who-we-are/director-nctc) (role context)
-
-### Iraq war casualties (orders of magnitude)
-
-- Use peer-reviewed and major journalism aggregates; outline figures follow common ranges cited in public research—verify in session prep.
-
-### Cross-partisan and mainstream reporting
-
-- Major outlets for deployments, diplomacy, and congressional votes (e.g. Reuters, AP, WSJ, Defense News) as updated for 2026.
+- [UN Charter, Chapter VII, Article 51](https://www.un.org/en/about-us/un-charter/chapter-7)
+- [Joe Kent resignation coverage (Fortune, March 2026)](https://fortune.com/2026/03/17/who-is-joe-kent-green-beret-maga-loyalist-former-political-candidate-who-quit-over-iran/)
 
 ---
 
-## Discussion ground rules
-
-- Evidence-based claims, good-faith questions, respectful disagreement, open-minded consideration.
-
----
-
-<a href="/sessions" class="button">All Sessions</a>
-<a href="/" class="button button-blue">Home</a>
-
----
-
-**Disclaimer:** Citizen Steve does not represent The Ohio State University. See [About](/about) for the legal framework.
+<a href="/" class="button button-blue">← Back to Home</a>

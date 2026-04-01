@@ -5,110 +5,83 @@ date: 2026-04-01 13:00:00 -0400
 categories: sessions
 ---
 
-# Session 2: Is Donald Trump Corrupting the Presidency to Enrich Himself?
+# Is Donald Trump Corrupting the Presidency to Enrich Himself?
 
-**Wednesday, April 1, 2026 | 1:00 PM - 2:00 PM | The Oval, OSU**
+**Session 2 — Wednesday, April 1, 2026 — The Oval, Ohio State University**
 
 ---
 
-## Outline
+## This is not only about Trump
 
-*This session follows [Corruption Notes](/notes/CSOH%20-%20Corruption%20Notes.md); deep citations and tables are in [Corruption Research](/notes/CSOH%20-%20Corruption%20Research.md).*
+The preferences of average Americans have a near-zero effect on which policies actually get adopted. Economic elites and organized business groups drive policy outcomes—this is the empirical finding of the landmark Gilens and Page study of nearly 1,800 policy issues. When the public wants something the wealthy oppose, it almost never happens.
 
-### Opening: Frame the question (≈5 min)
+**Citizens United made it worse.** After the 2010 Supreme Court decision removed limits on independent expenditures, mega-donor spending tripled. Research shows donors don't just pick candidates who agree with them—they actively shape how legislators vote. And donors penalize moderates five times more heavily than extremists, structurally pushing politics toward polarization.
 
-- “Corruption” here includes **personal enrichment** and **structural** skew—who government actually listens to.
-- Why founders cared: office as **public trust**, not a business asset; link to Session 5 (concentration of power).
+Before you ever cast a ballot, the donor class has already decided who gets to run. This is the "wealth primary." Trump-specific corruption sits inside a system already built to serve concentrated wealth.
 
-### Part 1: System context—the “wealth primary” (≈12 min)
+## The presidency as a profit center
 
-- **Dual election:** donor class and organized groups filter who can run before the general public votes.
-- **Citizens United** era: concentration of independent spending; evidence legislators move with **mega-donor** loss/gain, not only “selection.”
-- **Gilens & Page–style result:** median voter preferences often **near-zero** independent effect on policy adoption vs. elites and business groups (debated, but a serious empirical challenge).
-- **Dark money** and **revolving door:** opacity + “iron triangles” between agencies, industry, and influence.
-- **Takeaway:** Trump-specific stories sit inside a system already responsive to concentrated wealth.
+**Taxpayer money flows to Trump properties.** The Secret Service has spent roughly $100,000 at Trump resorts. Cumulative political and taxpayer spending at Trump-branded properties has reached at least $16.1 million. The Trump Organization has charged the government rates as high as $17,000 per month for cottages, with added charges for furniture removal.
 
-### Part 2: This presidency as profit center (≈12 min)
+**The $10 billion IRS lawsuit.** In January 2026, Trump sued his own Treasury Department over a tax-record leak from his first term. The leaker was already caught and sentenced to five years. Trump is simultaneously the plaintiff demanding $10 billion and the boss of the officials who can settle the case. Senators Wyden and Warren warn this could become a taxpayer-funded windfall authorized by his own appointees.
 
-- **Government and political spending at Trump properties** (Secret Service, travel, events)—cumulative figures tracked by watchdogs and investigative outlets.
-- **$10 billion lawsuit** against Treasury/IRS over past tax-record leaks: president as plaintiff vs. agencies he oversees; oversight concerns about **taxpayer-funded settlement** as personal windfall ([Senate Finance minority release](https://www.finance.senate.gov/ranking-members-news/wyden-warren-demand-answers-as-trump-attempts-to-steal-10b-from-taxpayers-in-irs-lawsuit)).
-- **Settlements and parallel payments** (e.g. Meta, ABC, Crypto.com–type flows) alongside enforcement and access—pattern, not one-off.
+**A pattern of coercive settlements:**
 
-### Part 3: Crypto, tokens, and regulatory posture (≈10 min)
+| Entity | Amount | Context |
+|--------|--------|---------|
+| Meta | $25 million | Settlement → account reinstatement |
+| ABC News | $15 million | Defamation settlement → avoided trial with sitting president |
+| Crypto.com | $11 million | Political donation while under SEC investigation |
 
-- **$TRUMP / World Liberty Financial:** meme assets whose value tracks attention and **access expectations**; foreign and anonymous purchase risk.
-- **Crypto.com, Binance-related flows, Justin Sun:** donations, partnerships, dismissed or paused enforcement—**regulatory “plea deal”** framing for discussion.
-- **Emoluments and foreign policy:** not only domestic graft but **appearance** that policy and personal finance move together.
+These aren't coincidences. They're a business model.
 
-### Part 4: Foreign licensing and Gulf deals (≈8 min)
+## Crypto and pay-to-play
 
-- **Licensing and project fees** with state-linked partners (Saudi, UAE, Oman, etc.); scale estimates in investigative reporting.
-- **Foreign Emoluments Clause** and **national security**: personal debt and licensing vs. adversary leverage ([Defense One tracking](https://www.defenseone.com/threats/2025/01/tracking-trumps-national-security-conflicts-interest/402329/), [House Oversight / American Oversight reports](https://americanoversight.org/new-congressional-report-trump-businesses-received-7-8-million-from-foreign-governments-during-his-presidency/)).
+The **$TRUMP meme coin** launched three days before the 2025 inauguration, netting over $350 million in profits for backers. It conveys no voting rights and holds no intrinsic value—but it has been purchased by individuals and foreign entities seeking to influence U.S. policy.
 
-### Part 5: Congress, stocks, and state-as-investor (≈8 min)
+Then came the regulatory plea deals:
 
-- **STOCK Act:** weak penalties; trading around **tariff** and policy news; ETFs tracking congressional portfolios outperforming benchmarks (discussion of incentives).
-- **Government equity stakes** (CHIPS, Defense Production Act): when the state is shareholder, **regulatory capture** risk rises—“protection to promotion” industrial policy with conflicts built in ([Cato, “state corporatism”](https://www.cato.org/free-society/winter-2026/conspicuous-fist-trumps-state-corporatism)).
+- **Crypto.com:** Under SEC investigation → donated $10M+ to Trump PACs → investigation dismissed → entered $1B partnership with Trump Media.
+- **Justin Sun:** Sued for fraud by the SEC → invested $30M in World Liberty Financial → prosecutors asked a judge to pause the investigation.
+- **Binance CEO:** Pardoned by Trump after Binance-related entities invested $2B in World Liberty Financial.
 
-### Part 6: Constitutional and republican theory (≈10 min)
+This is a new form of corruption: legal investigations traded for investments in the president's personal ventures.
 
-- **Foreign and Domestic Emoluments Clauses** — [Article I, Section 9](https://constitution.congress.gov/browse/article-1/section-9/); [Article II, Section 1](https://constitution.congress.gov/browse/article-2/section-1/).
-- **Corruption → loss of legitimacy** (republican theory): when office pays, succession and accountability distort toward **oligarchy** or **monarchy**.
+## Foreign money and the Constitution
 
-### Part 7: Discussion (remaining time)
+The Trump family's projected income from overseas projects is estimated to exceed **$400 million** during the second term. DAMAC's owner announced a $20 billion U.S. investment after meeting Trump at Mar-a-Lago. Trump admitted the deal wouldn't have happened without his election win.
 
-- Which problems require **Trump-specific** accountability vs. **structural** reform (finance law, disclosure, stock ban)?
-- What “bright lines” would you draw between legitimate wealth and corrupting the presidency?
+The **Foreign Emoluments Clause** exists for exactly this reason—the Constitution prohibits the president from receiving payments from foreign governments without congressional consent. A House Oversight Committee report confirmed China alone paid $5.5 million to Trump businesses during one two-year period.
+
+When the president's personal wealth depends on the goodwill of foreign state-controlled entities, that's a national security vulnerability that adversaries can exploit.
+
+## Congress is corrupted too
+
+The **STOCK Act** imposes a $200 penalty for disclosure violations. No member of Congress has ever been successfully prosecuted under it. Meanwhile, ETFs that track congressional trades outperform the S&P 500, and over 50 members made 2,000+ trades in tariff-affected companies within 55 days of tariff announcements.
+
+Research shows that when citizens learn about congressional trading, trust collapses. People see laws as self-serving and become less willing to comply with them. The legitimacy of the entire system erodes.
+
+## What would the founders say?
+
+They wrote the Emoluments Clauses because they understood that when office pays, accountability breaks down. The presidency was designed as a public trust, not a business asset. The question is whether the bright lines between service and profit can be restored—or whether they've been permanently erased.
 
 ---
 
 ## Sources
 
-### Founding documents and analysis
-
-- [U.S. Constitution — Foreign Emoluments](https://constitution.congress.gov/browse/article-1/section-9/)
-- [U.S. Constitution — Domestic Emoluments (President’s salary)](https://constitution.congress.gov/browse/article-2/section-1/)
-- [Federalist No. 75 (Hamilton) — foreign influence](https://guides.loc.gov/federalist-papers/text-71-80)
-- Zephyr Teachout, *Corruption in America*
-
-### Empirical and structural
-
 - [Sunlight Foundation — Gilens & Page overview](https://sunlightfoundation.com/2014/04/17/american-oligarchy-how-the-preferences-of-elites-shape-policy-outcomes/)
-- [Mega-donors and representation (AEA preliminary paper, 2026)](https://www.aeaweb.org/conference/2026/preliminary/paper/SfhG4kh4)
-
-### Executive self-dealing and crypto
-
+- [Mega-donors and representation (AEA, 2026)](https://www.aeaweb.org/conference/2026/preliminary/paper/SfhG4kh4)
 - [Brennan Center — conflicts and self-dealing](https://www.brennancenter.org/our-work/research-reports/uncovering-conflicts-interest-and-self-dealing-executive-branch)
-- [Associated Press — Trump Media / crypto conflicts](https://www.ap.org/news-highlights/spotlights/2025/how-a-trump-media-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest/)
+- [AP — Trump Media / crypto conflicts](https://www.ap.org/news-highlights/spotlights/2025/how-a-trump-media-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest/)
 - [CREW — Secret Service spending at Trump properties](https://www.citizensforethics.org/reports-investigations/crew-investigations/secret-service-has-spent-nearly-100k-at-trump-properties/)
-- [ProPublica — political and taxpayer spending at Trump properties](https://www.propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million)
-
-### Congress and trading
-
+- [ProPublica — taxpayer spending at Trump properties](https://www.propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million)
+- [Senate Finance — Wyden/Warren on $10B lawsuit](https://www.finance.senate.gov/ranking-members-news/wyden-warren-demand-answers-as-trump-attempts-to-steal-10b-from-taxpayers-in-irs-lawsuit)
+- [U.S. Constitution — Foreign Emoluments, Art. I, Sec. 9](https://constitution.congress.gov/browse/article-1/section-9/)
 - [Brennan Center — congressional stock trading](https://www.brennancenter.org/our-work/research-reports/congressional-stock-trading-explained)
-- [Harvard JOL — trading ban and transparency](https://journals.law.harvard.edu/jol/2025/11/03/congressional-stock-trading-ban-challenges/)
 - [PNAS — stock trading knowledge and legitimacy](https://www.pnas.org/doi/10.1073/pnas.2501822122)
-
-### Foreign deals and security
-
+- [Defense One — Trump national security conflicts](https://www.defenseone.com/threats/2025/01/tracking-trumps-national-security-conflicts-interest/402329/)
 - [El País — Persian Gulf business, Trump family](https://english.elpais.com/international/2026-03-16/the-persian-gulf-a-booming-business-for-the-trump-family.html)
-- [The National — DAMAC / data centers reporting](https://www.thenationalnews.com/business/2025/01/08/hussain-sajwani-damac-trump-us/)
-
-### Full bibliography
-
-- See inline links and numbered references in [Corruption Research](/notes/CSOH%20-%20Corruption%20Research.md).
 
 ---
 
-## Discussion ground rules
-
-- Evidence-based claims, good-faith questions, respectful disagreement, open-minded consideration.
-
----
-
-<a href="/sessions" class="button">All Sessions</a>
-<a href="/" class="button button-blue">Home</a>
-
----
-
-**Disclaimer:** Citizen Steve does not represent The Ohio State University. See [About](/about) for the legal framework.
+<a href="/" class="button button-blue">← Back to Home</a>
