@@ -14,7 +14,7 @@ categories: sessions
 ## ✊ Supporting the troops means holding leaders accountable
 
 - The chain of command runs: lower ranks → higher ranks → the President → **the people**
-- **It is our job** to hold the president accountable through peaceful protest, elections, and where appropriate, **demands for impeachment and prosecution**
+- **It is our job** to hold the president accountable through active, non-violent protest, elections, and where appropriate, **demands for impeachment and prosecution**
 - Protesting an unjust war is **not** opposing the troops — it's protecting them from being sacrificed for illegitimate goals
 - <span class="text-red-bold">Failing to speak is failing the troops</span>
 

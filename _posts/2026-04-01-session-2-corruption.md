@@ -17,7 +17,7 @@ categories: sessions
 - **Your safety:** when leaders owe favors to foreign governments and private interests, policy serves <span class="text-red-bold">their profit, not your protection</span>
   - Decisions about Russia, Turkey, Qatar, and China get filtered through **who's paying whom** — a [House Oversight report](https://americanoversight.org/new-congressional-report-trump-businesses-received-7-8-million-from-foreign-governments-during-his-presidency/) found Trump businesses received **$7.8 million** from foreign governments
 - **Your voice:** corruption replaces **your vote** with **their dollar** — qualified public servants [get pushed out](https://vitalsigns.edf.org/story/they-used-fight-big-polluters-now-these-trump-appointees-are-charge-your-health) and replaced by people whose only qualification is <span class="text-red-bold">loyalty to the boss</span>
-- The founders built a government **of, by, and for the people** — corruption flips that on its head and makes government work <span class="text-red-bold">against</span> the people it's supposed to serve
+- The founders designed a government to **serve and protect the populace** — corruption inverts that, making government work <span class="text-red-bold">against</span> the people it's supposed to serve
 
 ## 🏛️ How bad is it? America is a functional oligarchy
 
@@ -33,18 +33,17 @@ categories: sessions
 ### The revolving door
 - Regulators enter the sectors they once oversaw; by late 2025, over [**755 former congressional employees**](https://info.legistorm.com/blog/congress-and-state-legislatures-2025-in-review) had registered as lobbyists — a 45% increase from the previous year
 - Former fossil fuel and chemical industry executives [placed in key EPA and Department of Energy roles](https://vitalsigns.edf.org/story/they-used-fight-big-polluters-now-these-trump-appointees-are-charge-your-health) have dismantled air pollution and toxic chemical regulations
-- **71 coal-fired power plants** granted exemptions from mercury and arsenic regulations despite known public health risks
+- Former regulators-turned-lobbyists use insider knowledge to **weaken the rules they once enforced**
 
 ### Congressional stock trading
-- **The STOCK Act** — lawmakers [trade stocks in industries they regulate](https://www.brennancenter.org/our-work/research-reports/congressional-stock-trading-explained), their trades **outperform the S&P 500**, and the penalty for non-disclosure is <span class="text-red-bold">$200</span>
+- **The STOCK Act** — lawmakers [trade stocks in industries they regulate](https://www.brennancenter.org/our-work/research-reports/congressional-stock-trading-explained) and their trades **outperform the S&P 500**. Actual insider trading carries **up to 20 years in prison** — but Congress members are <span class="text-red-bold">virtually never prosecuted</span>. Miss your disclosure deadline? The fine is <span class="text-red-bold">$200</span> — and ethics committees routinely **waive even that**
 - ETFs tracking Congressional Democrats (NANC) [returned **73%**](https://journals.law.harvard.edu/jol/2025/11/03/congressional-stock-trading-ban-challenges/) vs. S&P's 61% over 2023–Aug 2025
-- In 55 days following Feb 2025 tariff announcements, over **50 members of Congress** conducted **2,000+ trades** in the 700 companies most affected
+- In the weeks following major 2025 tariff announcements, [dozens of members traded heavily](https://www.businessinsider.com/congress-stock-trades-tariff-affected-companies-2025) in tariff-affected companies
 - <span class="text-red-bold">No member of Congress has ever been successfully prosecuted</span> for insider trading under the STOCK Act
 - Citizens who learn about congressional stock profits [report sharp declines in trust](https://www.pnas.org/doi/10.1073/pnas.2501822122) and view laws as "self-serving" and "unfair"
 
 ### Dark money
-- Expenditures by organizations that conceal donor identities exceeded <span class="text-red-bold">$1 billion</span> in 2020 and 2024 presidential cycles
-- Recent budget bills specifically **prohibit the SEC** from requiring disclosure of political contributions or trade association dues
+- Expenditures by organizations that conceal donor identities exceeded <span class="text-red-bold">[$1 billion](https://www.opensecrets.org/dark-money)</span> in recent presidential cycles
 - Clandestine corporate spending operates as ["illicit insider trading"](https://clsbluesky.law.columbia.edu/2023/06/15/clandestine-corporate-political-spending-as-illicit-insider-trading/) — using company assets for political agendas without shareholder disclosure
 
 ## 🚨 The Trump administration: institutionalized enrichment
