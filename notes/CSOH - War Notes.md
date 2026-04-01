@@ -5,7 +5,7 @@
 * I support the troops  
   * The chain of command  
     * Lower ranks \< Higher Ranks \< The President \< The People  
-    * It is our job to hold the President accountable through peaceful protests, and elections demanding impeachment and criminal prosecution where appropriate  
+    * It is our job to hold the President accountable through active, non-violent protests, and elections demanding impeachment and criminal prosecution where appropriate  
   * We protest when the cause is unjust because failing to do so is failing the troops  
 * Killing is terrible  
   * Depriving them of all future goods (Kagan on death)  

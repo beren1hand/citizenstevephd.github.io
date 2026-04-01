@@ -7,7 +7,7 @@ categories: sessions
 
 # Is Donald Trump Creating a Secret Racist Police Force?
 
-**Session 4 — Wednesday, April 15, 2026 — The Oval at THE Ohio State University**
+**Session 4 — Wednesday, April 15, 2026 — The Oval at <span class="text-red-bold">THE</span> Ohio State University**
 
 ---
 

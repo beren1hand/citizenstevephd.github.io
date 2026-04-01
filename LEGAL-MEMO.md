@@ -359,7 +359,5 @@
 
 ---
 
-**Questions or concerns?** Email steve@citizenstevephd.com
-
 **Date prepared:** March 20, 2026  
 **Research source:** Perplexity Pro (legal research, policy analysis, case law)

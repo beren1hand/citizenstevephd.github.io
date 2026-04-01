@@ -4,7 +4,24 @@ title: Home
 show_hero: true
 ---
 
-## Sessions
+<h2 class="text-red" style="font-size: 2.2rem;">🇺🇸 Revolution. American-Style!</h2>
+
+<p class="text-blue" style="font-size: 1.4rem; font-weight: 800; line-height: 1.4;">We get loud. We get in the way. We get out the vote! ✊</p>
+
+- The founders fought a violent revolution **so we'd never have to fight one again** — they gave us a Constitution, the rule of law, and the tools for **peaceful transitions of power** 📜
+- Those tools require <span class="text-red-bold">free and fair elections</span> with **every eligible citizen able to vote** 🗳️ — voter restrictions suppress turnout and harm democracy, while evidence of substantial voter fraud is essentially <span class="text-red-bold">nonexistent</span>
+- The **suffragists** showed us how to fight for those tools — they marched, they disrupted, they got arrested, and <span class="text-red-bold">they won</span> ✊
+- The **civil rights movement** showed us again — sit-ins, boycotts, freedom rides, bold and creative acts of non-violent resistance that <span class="text-red-bold">changed the law of the land</span>
+- This is our inheritance. **Not quiet compliance. Not polite silence.** Tools only work if you **pick them up.**
+  - **Active.**
+  - **Non-violent.**
+  - **Disruptive.**
+  - <span class="text-red-bold">Democracy-shaking protest.</span>
+- That's the American tradition. <span class="text-red-bold">It's time to use it.</span> 🗽
+
+---
+
+## 📣 Sessions
 
 {% assign sessions = site.posts | sort: "date" %}
 <ul class="session-list">
@@ -26,21 +43,17 @@ show_hero: true
 {% endfor %}
 </ul>
 
----
-
 <div class="about-section" markdown="1">
 
-## About Citizen Steve
+## 🦅 About Citizen Steve
 
-**Citizen Steve** provides evidence-based education examining critical questions about American democracy and constitutional governance. Five weekly sessions, each driven by a single question, using PhD-level rigor in accessible presentation.
+**Citizen Steve** provides **evidence-based education** examining critical questions about American democracy and constitutional governance. Five weekly sessions, each driven by a **single question**, using PhD-level rigor in accessible presentation.
 
-**The approach:** Not telling you what to think—providing evidence so you can decide for yourself. Every claim sourced. Conservative and cross-partisan sourcing (Fox News, court records, Trump's own appointees). Grounded in founding principles.
+**The goal:** To examine whether current governance patterns match the **monarchical behaviors America's founders rejected** — using their own standards. ⚖️
 
-**The goal:** To examine whether current governance patterns match the monarchical behaviors America's founders rejected—using their own standards.
+**Location:** 📍 The Oval at <span class="text-red-bold">THE</span> Ohio State University
 
-**Location:** The Oval at THE Ohio State University (traditional public forum)
-**Time:** Wednesdays, 1:00–2:00 PM
-**Contact:** [steve@citizenstevephd.com](mailto:steve@citizenstevephd.com)
+**Time:** 🕐 Wednesdays, 1:00–2:00 PM for the rest of the Spring '26 semester
 
 <div class="disclaimer" markdown="1">
 

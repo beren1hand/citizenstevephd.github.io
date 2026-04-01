@@ -7,7 +7,7 @@ categories: sessions
 
 # Is Donald Trump Covering Up for the Criminal Epstein Network?
 
-**Session 3 — Wednesday, April 8, 2026 — The Oval at THE Ohio State University**
+**Session 3 — Wednesday, April 8, 2026 — The Oval at <span class="text-red-bold">THE</span> Ohio State University**
 
 ---
 
