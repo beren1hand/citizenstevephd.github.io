@@ -14,6 +14,9 @@ plugins:
 timezone: America/New_York
 future: true
 
+# Google Analytics (GA4 Measurement ID)
+google_analytics: "G-VVK1MMNFFX"
+
 # Permalink structure
 permalink: /sessions/:year/:month/:day/:title/
 
