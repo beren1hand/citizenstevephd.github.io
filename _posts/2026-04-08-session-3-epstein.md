@@ -34,8 +34,12 @@ categories: sessions
 - The Trump Justice Department is corrupt
     - how their behavior is evidence
 
+- Trump is only the head on the pimple
+    - The corruption is deep and global
+    - And relevant to OSU (Wexner)
+
 - This is a fundamental threat to democracy and global wellbeing
-    - take this from the paper
+    - take this from the dark kompromat paper
     - Also mention possible Iran War connections
 
 
