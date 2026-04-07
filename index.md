@@ -46,6 +46,22 @@ description: "Revolution. American-Style!"
 
 <div class="about-section" markdown="1">
 
+<h2 class="home-title">📄 Academic Paper on the Epstein Files</h2>
+
+**WARNING: Contains PhD-level firepower.** 🔥
+
+- Citizen Steve didn't just make a sign and yell on the Oval — he wrote a **full academic paper** on why the Epstein cover-up is a direct threat to American democracy 🇺🇸
+- The horrors alleged in the Epstein files aren't "extraordinary claims" — they're **historically ordinary features of concentrated, unaccountable power**
+- The paper lays out a clear framework: **prosecutorial vs. epistemic vs. investigative** standards — and shows how conflating them protects the powerful
+- The government's own desperate suppression of documents is <span class="text-red-bold">evidence of the severity of what they're hiding</span>
+- The rational warrant for a full investigation is <span class="text-red-bold">overwhelming</span> — if your senator says "there's no evidence," hand them this paper 🦅
+
+<a href="/epstein_academic/" class="button button-blue">📄 Read the Full Academic Paper</a>
+
+</div>
+
+<div class="about-section" markdown="1">
+
 <h2 class="home-title">🦅 About Citizen Steve</h2>
 
 **Citizen Steve** provides **evidence-based education** examining critical questions about American democracy and constitutional governance. Five weekly sessions, each driven by a **single question**, using PhD-level rigor in accessible presentation.

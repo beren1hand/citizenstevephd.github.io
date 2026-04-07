@@ -3,6 +3,7 @@ layout: default
 title: "Session 4: Is Donald Trump Creating a Secret Racist Police Force?"
 date: 2026-04-15 00:00:00 -0400
 categories: sessions
+permalink: /ice/
 ---
 
 # Is Donald Trump Creating a Secret Racist Police Force?

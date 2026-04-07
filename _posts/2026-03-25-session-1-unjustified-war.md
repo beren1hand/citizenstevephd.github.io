@@ -3,6 +3,7 @@ layout: default
 title: "Session 1: Has Donald Trump Started an Illegal and Immoral War in Iran?"
 date: 2026-03-25 00:00:00 -0400
 categories: sessions
+permalink: /war/
 ---
 
 # 🇺🇸 Has Donald Trump Started an Illegal and Immoral War in Iran?

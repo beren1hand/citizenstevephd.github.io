@@ -3,6 +3,7 @@ layout: default
 title: "Session 2: Is Donald Trump Corrupting the Presidency to Enrich Himself?"
 date: 2026-04-01 00:00:00 -0400
 categories: sessions
+permalink: /corruption/
 ---
 
 # 💰 Is Donald Trump Corrupting the Presidency to Enrich Himself?

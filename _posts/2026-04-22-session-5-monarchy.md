@@ -3,6 +3,7 @@ layout: default
 title: "Session 5: Is Donald Trump Trying to Become an Immortal King?"
 date: 2026-04-22 00:00:00 -0400
 categories: sessions
+permalink: /monarchy/
 ---
 
 # Is Donald Trump Trying to Become an Immortal King?
