@@ -52,10 +52,10 @@ permalink: /epstein/
 
 ## 🚨 Donald Trump is a sexual predator
 
-- **26+ women** have publicly accused Donald Trump of sexual misconduct ranging from unwanted groping and kissing to rape ([Business Insider](https://www.businessinsider.com/women-accused-trump-sexual-misconduct-list-2017-12))
-- In May 2023, a federal jury found Trump <span class="text-red-bold">civilly liable for sexual abuse</span> — [*Carroll v. Trump*](https://storage.courtlistener.com/recap/gov.uscourts.nysd.591534/gov.uscourts.nysd.591534.214.0.pdf), Southern District of New York
+- **At least 28 women** have publicly accused Donald Trump of sexual misconduct ranging from unwanted groping and kissing to rape ([Wikipedia](https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations), aggregating court filings, sworn depositions, and published journalism; other counts range up to [43](https://www.axios.com/2024/10/28/trump-sexual-misconduct-allegations-women))
+- In May 2023, a federal jury found Trump <span class="text-red-bold">civilly liable for sexual abuse</span> — [*Carroll v. Trump*](https://storage.courtlistener.com/recap/gov.uscourts.nysd.591534/gov.uscourts.nysd.591534.214.0.pdf), Southern District of New York. A second jury awarded **$83.3 million** in damages
 - On the Access Hollywood tape, Trump described **his own behavior**: grabbing women without consent and walking into the dressing rooms of beauty pageant contestants — [including teenagers](https://www.rollingstone.com/politics/politics-features/a-timeline-of-donald-trumps-creepiness-while-he-owned-miss-universe-191860/)
-- Research consistently shows false sexual assault reporting rates are [**2–10%**](https://www.nsvrc.org/sites/default/files/publications/2018-10/Lisak-False-Reports-Moving-beyond.pdf). Even using the most generous false-report estimate of 10%, the probability that **all 26+ independent accusers are lying** is less than one in fourteen million
+- Research consistently shows false sexual assault reporting rates are [**2–10%**](https://www.nsvrc.org/sites/default/files/publications/2018-10/Lisak-False-Reports-Moving-beyond.pdf). Even using the most generous estimate of 10%, the probability that **all 28 independent accusers are fabricating** is 1 in 10<sup>28</sup> — that's 1 in 10,000,000,000,000,000,000,000,000,000. For comparison, winning the Powerball is 1 in 10<sup>8</sup>. ([See the calculation &darr;](#probability-calculation))
 - A [federal lawsuit — *Doe v. Trump and Epstein*](https://www.courtlistener.com/docket/4524664/doe-v-trump/) — alleged that Trump raped a 13-year-old at an Epstein property. The plaintiff withdrew under what she described as threats. The case was <span class="text-red-bold">never adjudicated on the merits</span>
 - The person directing the suppression of Epstein documents has a **documented personal history** that makes the suppression more — not less — significant
 
@@ -88,6 +88,68 @@ permalink: /epstein/
   1. **Full release** of all documents covered by the EFTA — the law the president signed and then sabotaged
   2. **Congressional oversight** with genuine subpoena power, directed by committees whose members are not themselves compromised
   3. **International cooperation** with European jurisdictions that have shown greater willingness to follow the evidence
+
+---
+
+<h2 id="probability-calculation">🔢 Probability calculation: could all of Trump's accusers be lying?</h2>
+
+**Data:** At least 28 women have publicly accused Trump of sexual misconduct on the record ([Wikipedia](https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations), aggregating court filings, sworn depositions, and journalism). Other counts go as high as 43.
+
+**False report rate:** Methodologically sound research consistently finds false sexual assault reporting rates of 2–10% ([Lisak et al., 2010](https://www.nsvrc.org/sites/default/files/publications/2018-10/Lisak-False-Reports-Moving-beyond.pdf); NSVRC review). We use 10% — the most generous possible estimate.
+
+**Model:** If each accusation is independent, with a 10% chance of being fabricated: P(all n lying) = 0.10<sup>n</sup>
+
+| Accusers | p_false = 2% | p_false = 5% | p_false = 8% | p_false = 10% |
+|:---:|:---:|:---:|:---:|:---:|
+| 26 | 1 in 10<sup>44</sup> | 1 in 10<sup>33</sup> | 1 in 10<sup>28</sup> | 1 in 10<sup>26</sup> |
+| 27 | 1 in 10<sup>45</sup> | 1 in 10<sup>35</sup> | 1 in 10<sup>29</sup> | 1 in 10<sup>27</sup> |
+| **28** | **1 in 10<sup>47</sup>** | **1 in 10<sup>36</sup>** | **1 in 10<sup>30</sup>** | **1 in 10<sup>28</sup>** |
+| 31 | 1 in 10<sup>52</sup> | 1 in 10<sup>40</sup> | 1 in 10<sup>34</sup> | 1 in 10<sup>31</sup> |
+
+**For context:** Winning the Powerball jackpot is 1 in 10<sup>8</sup>. Even in the most generous scenario (28 accusers, 10% false-report rate), the probability that every single one is lying is 1 in 10<sup>28</sup> — **twenty orders of magnitude less likely than winning the lottery**.
+
+**This model is generous.** It assumes no correlation between accusers, uses the highest credible false-report rate, counts only named on-the-record accusers, and ignores the fact that a jury already found Trump liable for sexually abusing E. Jean Carroll. Every one of these assumptions favors the "all lying" hypothesis.
+
+<details>
+<summary><strong>Python script — reproduce the calculation yourself</strong> (<a href="/assets/scripts/accusation_probability.py">download</a>)</summary>
+
+```python
+"""
+Data source: Wikipedia, "Donald Trump sexual misconduct allegations"
+https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations
+"As of October 2024, since the 1970s, at least 28 women have accused
+Donald Trump of various acts of sexual misconduct."
+
+False report rate: Lisak et al. (2010), Violence Against Women, 16(12).
+Range: 2-10%. We use 10% (most generous to the 'all lying' hypothesis).
+"""
+from decimal import Decimal
+import math
+
+def probability_all_lying(n, p_false):
+    return p_false ** n
+
+def format_odds(prob):
+    if prob == 0:
+        return "effectively zero"
+    one_in = 1.0 / prob
+    exp = math.floor(math.log10(one_in))
+    mantissa = one_in / (10 ** exp)
+    return f"1 in {mantissa:.2f} × 10^{exp}"
+
+for n in [26, 27, 28, 31]:
+    for p in [0.02, 0.05, 0.08, 0.10]:
+        prob = probability_all_lying(n, p)
+        print(f"n={n}, p_false={p:.0%}: P(all lying) = {prob:.2e}  =>  {format_odds(prob)}")
+
+# Conservative case
+prob_exact = Decimal("0.10") ** 28
+print(f"\nConservative case (28 accusers, 10%):")
+print(f"  P(all lying) = {prob_exact}")
+print(f"  = 1 in {1/prob_exact:,.0f}")
+```
+
+</details>
 
 ---
 
