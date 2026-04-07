@@ -11,7 +11,33 @@ categories: sessions
 
 ---
 
-*Notes coming soon.*
+- What the Epstein files contain
+    - Allegations of unimaginable horror
+        - Sexual abuse
+        - Torture 
+        - Murder
+        - Cannibalism
+        - Underage women
+        - Children, infants, fetuses
+    - Evidential standards
+        - ...
+
+- This has happened before
+    - Best historical cases
+
+- Donald Trump is a rapist
+    - stats on the number of women who have accused him
+    - the rate of misreported rape, based on actual research
+    - the mathematical odds of this many women all lying
+    - what the civil conviction means
+
+- The Trump Justice Department is corrupt
+    - how their behavior is evidence
+
+- This is a fundamental threat to democracy and global wellbeing
+    - take this from the paper
+    - Also mention possible Iran War connections
+
 
 ---
 
